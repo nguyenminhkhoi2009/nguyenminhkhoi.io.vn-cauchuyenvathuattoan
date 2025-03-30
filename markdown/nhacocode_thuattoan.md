@@ -16,3 +16,9 @@ Gia đình là "exception handling" tốt nhất, nơi mọi bug đều có th�
 - **Đặt "condition break" cho bản thân**: Đừng để học lập trình thành vòng lặp vô tận như "đệ quy không điểm dừng" của gia tộc Khoa – nghỉ ngơi, ăn cơm nhà, giữ sức khỏe để code bền lâu.  
 
 *(Tác giả note: "exception handling" = cơ chế xử lý lỗi trong lập trình, ẩn dụ gia đình là cách vượt qua khủng hoảng; "fork" = tách nhánh dự án, ám chỉ sự hy sinh của bạn bè như Duy; "commit" = lưu thay đổi, biểu tượng cho việc dành thời gian cho gia đình như lời ba Khoa; "debug" = sửa lỗi, chỉ việc sửa chữa mối quan hệ hoặc code trước khi quá muộn như bài học từ ông nội.)*
+
+---
+
+📢 **Bình luận:**
+[![Discuss](https://img.shields.io/badge/GitHub-Discussions-green?style=flat-square)](https://github.com/nguyenminhkhoi2009/nguyenminhkhoi.io.vn-cautruyenvathuattoan/discussions)  
+*"Ném đá chỗ nào? Mời lên GitHub!"*  

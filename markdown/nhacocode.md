@@ -536,3 +536,9 @@ Duy đặt tay lên bàn phím cuối cùng:
 #GiaĐìnhLàAppKhôngCầnUpdate  
 
 *(Tác giả ký tên: Một thằng dev từng nghĩ code là tất cả... cho đến khi nhận ra mình cần cả gia đình để compile cuộc đời!)* 💻❤️
+
+---
+
+📢 **Bình luận:**
+[![Discuss](https://img.shields.io/badge/GitHub-Discussions-green?style=flat-square)](https://github.com/nguyenminhkhoi2009/nguyenminhkhoi.io.vn-cautruyenvathuattoan/discussions)  
+*"Ném đá chỗ nào? Mời lên GitHub!"*  

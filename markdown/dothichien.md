@@ -460,3 +460,9 @@ Cảm ơn các bạn đã đồng hành cùng Tuấn và Minh trong hành trình
 👉 "#UnionFind" nếu bạn là người kết nối mọi người!  
 
 **P/S:** Đời là một đồ thị **vô hướng** – cho đi điều tốt, rồi sẽ nhận lại. ❤️
+
+---
+
+📢 **Bình luận:**
+[![Discuss](https://img.shields.io/badge/GitHub-Discussions-green?style=flat-square)](https://github.com/nguyenminhkhoi2009/nguyenminhkhoi.io.vn-cautruyenvathuattoan/discussions)  
+*"Ném đá chỗ nào? Mời lên GitHub!"*  

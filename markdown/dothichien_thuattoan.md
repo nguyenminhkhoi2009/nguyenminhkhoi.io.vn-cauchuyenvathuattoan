@@ -217,3 +217,9 @@ void union_nodes(ll u, ll v) {
 
 **#CodeBáĐạo #DFSvàBFS #ThuậtToánNhưĐời**  
 **P/S:** Ai thích code style này thì comment "#TuiLàDFS" hoặc "#TuiLàBFS" nhé! 😎
+
+---
+
+📢 **Bình luận:**
+[![Discuss](https://img.shields.io/badge/GitHub-Discussions-green?style=flat-square)](https://github.com/nguyenminhkhoi2009/nguyenminhkhoi.io.vn-cautruyenvathuattoan/discussions)  
+*"Ném đá chỗ nào? Mời lên GitHub!"*  

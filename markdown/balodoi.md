@@ -338,3 +338,9 @@ Tác giả note:**
 **P/S:** Nếu bạn đọc đến đây, hãy thử mở balô đời mình ra, bỏ bớt một thứ không cần thiết đi. Tui vừa bỏ… cái deadline ngày mai đóoooooo! *Haizzz…*  
 
 #QuyHoạchĐộngLàSốngNhưNước #ChảyĐếnĐâuThíchNghiĐếnĐó
+
+---
+
+📢 **Bình luận:**
+[![Discuss](https://img.shields.io/badge/GitHub-Discussions-green?style=flat-square)](https://github.com/nguyenminhkhoi2009/nguyenminhkhoi.io.vn-cautruyenvathuattoan/discussions)  
+*"Ném đá chỗ nào? Mời lên GitHub!"*  

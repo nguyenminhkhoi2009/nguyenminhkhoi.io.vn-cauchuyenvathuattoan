@@ -143,3 +143,9 @@ int main() {
 **Code cuộc đời đôi khi không cần hoàn hảo, chỉ cần... chạy được là ngon!**  
 
 #BalôĐời #QuyHoạchĐộngLàĐây #GenZCodeĐời
+
+---
+
+📢 **Bình luận:**
+[![Discuss](https://img.shields.io/badge/GitHub-Discussions-green?style=flat-square)](https://github.com/nguyenminhkhoi2009/nguyenminhkhoi.io.vn-cautruyenvathuattoan/discussions)  
+*"Ném đá chỗ nào? Mời lên GitHub!"*  
