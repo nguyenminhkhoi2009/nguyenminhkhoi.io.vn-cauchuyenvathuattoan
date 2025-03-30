@@ -79,6 +79,8 @@ Minh nhìn xa xăm: *"Không biết. Nhưng ít nhất, giờ tao có đồng đ
 - Combat ở đây là **cuộc chiến tư duy**, không phải đấm đá nhé mấy bạn!  
 - Ai thấy hợp gu thì **comment "Tui là DFS/BFS"** xem bạn thuộc team nào? 😉
 
+---
+
 # **Chương 2: Lội Ngược Dòng Đồ Thị**  
 *"Cuộc đời này không phải là thuật toán để optimize, nhưng nếu không biết đường đi, mày sẽ mãi loop trong vô vọng." – Minh "Nghèo Rớt"*  
 
@@ -184,6 +186,8 @@ Tin nhắn cuối cùng của Tuấn khiến Minh bật cười:
 - **Cycle** = Vòng lặp vô hạn (kiểu sa đà vào cờ bạc, rượu chè).  
 - Khi đọc xong phải, bạn có tự tự hỏi: *"Mình đang DFS hay BFS cuộc đời?"* 😏 Comment đi nào!
 
+---
+
 # **Chương 3: Cycle và Lối Thoát**  
 *"Mày biết tại sao nhiều đứa mãi loay hoay trong vòng lặp không? Vì chúng nó quên đặt **điều kiện dừng**." – Minh "Nghèo Rớt"*  
 
@@ -280,6 +284,8 @@ Một chiếc xe cảnh sát đi ngang, ánh đèn loang lổ trên mặt đư�
 - **Greedy Algorithm** = Chọn cái lợi trước mắt mà quên hậu quả.  
 - **Bridge Edge** = Cạnh quan trọng nhất, nếu bỏ đi sẽ làm đồ thị rời rạc.  
 - Bạn đã bao giờ bị **cycle** trong cuộc sống chưa? Comment cách bạn **break** nhé! 🔄
+
+---
 
 # **Chương 4: Shortest Path**  
 *"Trong đồ thị cuộc đời, đường ngắn nhất chưa chắc là đường dễ đi nhất. Nhưng nếu không dám bước, mày sẽ mãi là một **isolated node**." – Tuấn "Đại Gia"*  
@@ -378,6 +384,8 @@ Một con sóng lớn ập vào bờ, xóa đi những nét vẽ nguệch ngoạ
 - **A*** = Kết hợp giữa ước tính và thực tế (teamwork giữa giàu/nghèo).  
 - **Isolated node** = Node đơn độc không kết nối (kẻ không dám thay đổi).  
 - Bạn đã bao giờ chọn **shortest path** chưa? Kể trải nghiệm của bạn dưới comment nhé! 🚀
+
+---
 
 # **Chương 5: Connected Components**  
 *"Cuối cùng thì... những node tưởng chừng chẳng liên quan gì đến nhau, hóa ra đều thuộc cùng một đồ thị lớn." – Minh "Nghèo Rớt"*  
