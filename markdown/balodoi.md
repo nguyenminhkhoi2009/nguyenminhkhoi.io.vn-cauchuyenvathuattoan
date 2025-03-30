@@ -53,7 +53,7 @@ Khoa xoay người, chỉ tay về phía mặt trời lặn. *"Từ việc dọn
 ---
 
 **CHƯƠNG 2: "YÊU LÀ MỘT DẠNG ĐẦU TƯ CÓ KỲ HẠN"**  
-*(Tác giả note: Chương này sẽ có vài khái niệm "nghe chuyên ngành" nhưng thực ra là mấy thứ ai cũng gặp, ví dụ: opportunity cost = cái giá của việc mày chọn người này mà bỏ người kia. Đại loại là chọn bạn mà chơi, chọn gái mà đổ tiền.)*  
+*(Tác giả note: Chương này sẽ có vài khái niệm "nghe chuyên ngành" nhưng thực ra là mấy thứ ai cũng gặp, ví dụ: opportunity cost = cái giá của việc bạn chọn người này mà bỏ người kia. Đại loại là chọn bạn mà chơi, chọn gái mà đổ tiền.)*  
 
 #ĐờiLàPhảiBiếtChọnLựa #TradeOffNhưNgườiTừngTrải  
 
@@ -115,7 +115,7 @@ Cô nhấn nút **Block**.
 
 **Tác giả note cuối chương:**  
 - *"Opportunity cost" = Khi bạn chọn ngủ nướng thay vì đi làm, cái giá phải trả là tiền lương. Còn nếu bạn chọn yêu đương mù quáng, cái giá là… tương lai.*  
-- *"Ràng buộc cứng" = Những thứ mày không thể thương lượng, như việc người yêu bạn phải biết dọn rác sau khi ăn.*  
+- *"Ràng buộc cứng" = Những thứ bạn không thể thương lượng, như việc người yêu bạn phải biết dọn rác sau khi ăn.*  
 - *Hãy nhớ: Cuộc đời là bài toán, nhưng đáp án không phải lúc nào cũng nằm trong phần "đáp án phía sau sách"!*  
 
 #BalôĐờiKhôngCóChỗChoKẻLườiTưDuy #GenZPhảiBiếtHySinh
