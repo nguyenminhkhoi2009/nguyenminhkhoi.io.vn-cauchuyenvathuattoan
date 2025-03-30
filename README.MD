@@ -1,46 +1,61 @@
-# Câu chuyện và Thuật Toán
+# Câu Chuyện và Thuật Toán
 
 [![GitHub stars](https://img.shields.io/github/stars/nguyenminhkhoi2009/nguyenminhkhoi.io.vn-cauchuyenvathuattoan?style=social)](https://github.com/nguyenminhkhoi2009/nguyenminhkhoi.io.vn-cauchuyenvathuattoan/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/nguyenminhkhoi2009/nguyenminhkhoi.io.vn-cauchuyenvathuattoan?style=social)](https://github.com/nguyenminhkhoi2009/nguyenminhkhoi.io.vn-cauchuyenvathuattoan/network/members)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## 📖 Giới thiệu
 
-Đây là nơi mình chia sẻ những câu chuyện thú vị nơi giao thoa giữa thuật toán và cuộc sống. Mình tạo repo này với mong muốn:
+Kho lưu trữ này là nơi mình kể lại những trải nghiệm thú vị khi học thuật toán thông qua lăng kính cuộc sống. Mỗi câu chuyện ở đây đều:
 
-- Giúp mọi người tiếp cận thuật toán một cách gần gũi, dễ hiểu
-- Cùng khám phá những bài học sâu sắc ẩn sau các vấn đề kỹ thuật
-- Chia sẻ góc nhìn đa chiều của mình về công nghệ và đời sống
-- Kết nối những khái niệm khô khan với hiện tượng đời thường
+- Ẩn chứa bài học lập trình được minh họa sinh động
+- Rút ra từ chính kinh nghiệm code và trưởng thành của mình
+- Kết nối công nghệ với triết lý sống đơn giản
 
-## 🗂 Nội dung
+## 🗂 Hành trình khám phá
 
-Trong repo này, mình đang và sẽ chia sẻ:
+Cùng mình đi qua các chặng đường:
 
-- Những câu chuyện ẩn dụ giúp hiểu thuật toán theo cách mới
-- Bài học cuộc sống mình rút ra từ lập trình
-- So sánh thú vị giữa code và đời thực
-- Cách tiếp cận sáng tạo để giải quyết vấn đề
+1. **Thuật toán trong đời thường**  
+   Những phép ẩn dụ từ cuộc sống giúp hiểu bản chất thuật toán
 
-## 🌟 Cùng tham gia
+2. **Lỗi sai đáng nhớ**  
+   Bài học xương máu từ các bug trở thành câu chuyện cảm hứng
 
-Mình rất vui nếu bạn muốn đóng góp cho dự án này! Nếu bạn có:
+3. **Góc nhìn khác**  
+   Cách tư duy đa chiều với các vấn đề tưởng chừng khô khan
 
-- Câu chuyện hay về thuật toán
-- Góc nhìn độc đáo về công nghệ
-- Ý tưởng truyền đạt kiến thức sáng tạo
+4. **Code và đời**  
+   Những triết lý song hành giữa lập trình và cuộc sống
 
-Cứ thoải mái mở Pull Request hoặc Issue để cùng thảo luận nhé!
+## 🌟 Trở thành đồng hành
 
-## 📜 Giấy phép
+Mình mong nhận được từ bạn:
 
-Dự án này được chia sẻ dưới giấy phép MIT - chi tiết xem tại file [LICENSE](LICENSE).
+- ✍️ Câu chuyện thuật toán của riêng bạn
+- 💡 Ý tưởng minh họa sáng tạo
+- 🤔 Góc nhìn mới về các vấn đề
 
-## 📬 Liên hệ với mình
+Cách tham gia:
+1. Fork repository
+2. Thêm câu chuyện của bạn vào thư mục `stories/`
+3. Tạo Pull Request với mô tả rõ ý tưởng
 
-Tác giả: Nguyễn Minh Khôi  
-Email: [nguyenminhkhoi2009.nmk@gmail.com](mailto:nguyenminhkhoi2009.nmk@gmail.com)  
-Website: [nguyenminhkhoi.io.vn](https://nguyenminhkhoi.io.vn)
+## 📜 Tuyên bố
+
+Dự án này hoạt động dưới [giấy phép MIT](LICENSE) - bạn có thể tự do sử dụng, chỉnh sửa và chia sẻ các nội dung tại đây.
+
+## 📬 Kết nối
+
+Hãy cùng trò chuyện với mình tại:
+
+📧 Email: [nguyenminhkhoi2009.nmk@gmail.com](mailto:nguyenminhkhoi2009.nmk@gmail.com)  
+🌐 Website: [nguyenminhkhoi.io.vn](https://nguyenminhkhoi.io.vn)  
 
 ---
 
-_"Code không chỉ là code - đằng sau mỗi thuật toán là cả một câu chuyện đời"_
+_"Mỗi dòng code đều xứng đáng có một câu chuyện để kể"_  
+
+![VCM: 1051301090 - NGUYENMINHKHOI](https://raw.githubusercontent.com/nguyenminhkhoi2009/ngunminhkhoi.io.vn-cauchuyenvathuattoan/png/VCM_Donate.png)
+
+**P/S:** Đừng quên ★ star repo nếu bạn thấy hữu ích nhé!
