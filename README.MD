@@ -1,4 +1,4 @@
-# Câu chuyện và Thuật Toán
+# Câu Chuyện và Thuật Toán
 
 [![GitHub stars](https://img.shields.io/github/stars/nguyenminhkhoi2009/nguyenminhkhoi.io.vn-cauchuyenvathuattoan?style=social)](https://github.com/nguyenminhkhoi2009/nguyenminhkhoi.io.vn-cauchuyenvathuattoan/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/nguyenminhkhoi2009/nguyenminhkhoi.io.vn-cauchuyenvathuattoan?style=social)](https://github.com/nguyenminhkhoi2009/nguyenminhkhoi.io.vn-cauchuyenvathuattoan/network/members)
