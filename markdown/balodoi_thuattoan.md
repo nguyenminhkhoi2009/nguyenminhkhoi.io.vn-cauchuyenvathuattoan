@@ -5,7 +5,7 @@
 *(Dành cho những bạn GenZ vừa muốn code ngon, vừa muốn sống ảo không phí)*  
 
 ## **1. Bài Toán Cái Túi (Balô) - What To Carry?**  
-**Tóm tắt truyện:** Thy và Khoa vật lộn với việc chọn lựa giữa tiền, tình yêu, sự nghiệp... Lời giải? **Quy hoạch động (Dynamic Programming)**!  
+**Tóm tắt chuyện:** Thy và Khoa vật lộn với việc chọn lựa giữa tiền, tình yêu, sự nghiệp... Lời giải? **Quy hoạch động (Dynamic Programming)**!  
 
 ### **Giải thích:**  
 - **Bài toán:** Bạn có 1 cái balô (giới hạn trọng lượng) và N món đồ (mỗi món có **trọng lượng** và **giá trị**). Chọn đồ sao cho **tổng giá trị lớn nhất** mà không vượt quá trọng lượng balô.  
@@ -60,7 +60,7 @@ int main() {
 ---
 
 ## **2. Quy Hoạch Động (Dynamic Programming) - Tối Ưu Cuộc Đời**  
-**Tóm tắt truyện:** Khoa dạy Thy cách sống "tối ưu" bằng DP.  
+**Tóm tắt chuyện:** Khoa dạy Thy cách sống "tối ưu" bằng DP.  
 
 ### **Giải thích:**  
 - **DP là gì?** Chia bài toán lớn thành các bài toán nhỏ, lưu kết quả để khỏi tính lại (kiểu "học từ sai lầm").  
@@ -94,7 +94,7 @@ int main() {
 ---
 
 ## **3. Pareto Optimal - Cân Bằng Giữa Tiền & Hạnh Phúc**  
-**Tóm tắt truyện:** Thy phải chọn giữa stream nhiều (kiếm tiền) và dành thời gian cho mẹ.  
+**Tóm tắt chuyện:** Thy phải chọn giữa stream nhiều (kiếm tiền) và dành thời gian cho mẹ.  
 
 ### **Giải thích:**  
 - **Pareto Optimal:** Khi bạn không thể cải thiện 1 thứ mà không làm thứ khác tệ đi.  
@@ -147,5 +147,5 @@ int main() {
 ---
 
 📢 **Bình luận:**
-[![Discuss](https://img.shields.io/badge/GitHub-Discussions-green?style=flat-square)](https://github.com/nguyenminhkhoi2009/nguyenminhkhoi.io.vn-cautruyenvathuattoan/discussions)  
+[![Discuss](https://img.shields.io/badge/GitHub-Discussions-green?style=flat-square)](https://github.com/nguyenminhkhoi2009/nguyenminhkhoi.io.vn-cauchuyenvathuattoan/discussions)  
 *"Ném đá chỗ nào? Mời lên GitHub!"*  

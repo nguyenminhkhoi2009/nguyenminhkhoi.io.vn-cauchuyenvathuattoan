@@ -540,5 +540,5 @@ Duy đặt tay lên bàn phím cuối cùng:
 ---
 
 📢 **Bình luận:**
-[![Discuss](https://img.shields.io/badge/GitHub-Discussions-green?style=flat-square)](https://github.com/nguyenminhkhoi2009/nguyenminhkhoi.io.vn-cautruyenvathuattoan/discussions)  
+[![Discuss](https://img.shields.io/badge/GitHub-Discussions-green?style=flat-square)](https://github.com/nguyenminhkhoi2009/nguyenminhkhoi.io.vn-cauchuyenvathuattoan/discussions)  
 *"Ném đá chỗ nào? Mời lên GitHub!"*  

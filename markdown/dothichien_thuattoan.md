@@ -174,7 +174,7 @@ void Dijkstra(ll start) {
 - **Biến đặc biệt:**  
   - `priority_queue`: Hàng đợi ưu tiên - kiểu "ai rẻ thì đi trước".  
   - `khoang_cach[]`: Lưu chi phí tốt nhất đến từng đỉnh.  
-- **Độ phê:** 11/10 - Chuẩn "A* algorithm" trong truyện!  
+- **Độ phê:** 11/10 - Chuẩn "A* algorithm" trong chuyện!  
 
 ---
 
@@ -221,5 +221,5 @@ void union_nodes(ll u, ll v) {
 ---
 
 📢 **Bình luận:**
-[![Discuss](https://img.shields.io/badge/GitHub-Discussions-green?style=flat-square)](https://github.com/nguyenminhkhoi2009/nguyenminhkhoi.io.vn-cautruyenvathuattoan/discussions)  
+[![Discuss](https://img.shields.io/badge/GitHub-Discussions-green?style=flat-square)](https://github.com/nguyenminhkhoi2009/nguyenminhkhoi.io.vn-cauchuyenvathuattoan/discussions)  
 *"Ném đá chỗ nào? Mời lên GitHub!"*  

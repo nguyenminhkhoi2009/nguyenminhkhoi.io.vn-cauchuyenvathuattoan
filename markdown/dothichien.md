@@ -426,7 +426,7 @@ Dưới khán đài, Duy "Tiền Đô" – giờ đã là quản lý một chu�
 
 Còn Minh thì đang say sưa giải thích cho một cô bé đường phố: *"Em thấy không? Cuộc đời như cái đồ thị khổng lồ. Nhưng chỉ cần **một cạnh nối** thôi, mọi thứ sẽ thay đổi."*  
 
-**Kết Truyện: Đồ Thị Vô Hạn**
+**Kết Chuyện: Đồ Thị Vô Hạn**
 
 Đêm đó, hai đứa ngồi trên nóc toà nhà, nhìn thành phố lấp lánh dưới chân.  
 
@@ -464,5 +464,5 @@ Cảm ơn các bạn đã đồng hành cùng Tuấn và Minh trong hành trình
 ---
 
 📢 **Bình luận:**
-[![Discuss](https://img.shields.io/badge/GitHub-Discussions-green?style=flat-square)](https://github.com/nguyenminhkhoi2009/nguyenminhkhoi.io.vn-cautruyenvathuattoan/discussions)  
+[![Discuss](https://img.shields.io/badge/GitHub-Discussions-green?style=flat-square)](https://github.com/nguyenminhkhoi2009/nguyenminhkhoi.io.vn-cauchuyenvathuattoan/discussions)  
 *"Ném đá chỗ nào? Mời lên GitHub!"*  

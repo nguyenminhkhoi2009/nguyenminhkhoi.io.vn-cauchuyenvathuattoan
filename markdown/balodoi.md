@@ -4,7 +4,7 @@
 
 # BALÔ ĐỜI – XÁCH GÌ TRÊN VAI TUỔI 20?
 
-**MỞ ĐẦU TRUYỆN: "BALÔ ĐỜI – XÁCH GÌ TRÊN VAI TUỔI 20?"**  
+**MỞ ĐẦU CHUYỆN: "BALÔ ĐỜI – XÁCH GÌ TRÊN VAI TUỔI 20?"**  
 
 *"Trên đời này có hai kiểu người: Kiểu xách balô đầy ắp đồ nhưng toàn thứ vô dụng, và kiểu xách túi rỗng mà sống như đại gia."* – Khoa "Cân Cơm" ném một miếng chả ram cuối cùng vào miệng, nhai nhồm nhoàm. *"Mày thuộc kiểu nào?"*  
 
@@ -316,7 +316,7 @@ Khoa suy nghĩ, rồi chỉ vào chai rượu: *"Thứ này. Vì…"*
 
 *(Tác giả note: Đôi khi lời giải cho bài toán phức tạp nhất lại đơn giản không ngờ.)*  
 
-**Kết Truyện: "Không Phải Hồi Kết"**  
+**Kết Chuyện: "Không Phải Hồi Kết"**  
 
 Sáng hôm sau, quán "Cân Cơm" đông nghẹt khách.  
 
@@ -342,5 +342,5 @@ Tác giả note:**
 ---
 
 📢 **Bình luận:**
-[![Discuss](https://img.shields.io/badge/GitHub-Discussions-green?style=flat-square)](https://github.com/nguyenminhkhoi2009/nguyenminhkhoi.io.vn-cautruyenvathuattoan/discussions)  
+[![Discuss](https://img.shields.io/badge/GitHub-Discussions-green?style=flat-square)](https://github.com/nguyenminhkhoi2009/nguyenminhkhoi.io.vn-cauchuyenvathuattoan/discussions)  
 *"Ném đá chỗ nào? Mời lên GitHub!"*  
