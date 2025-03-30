@@ -6,7 +6,7 @@
 # **Đồ Thị Chiến: Đường Đi Của Kẻ Ngu và Người Nghèo**  
 *"Trong thế giới này, có hai kiểu người: Kẻ đi lòng vòng như DFS và người đi thẳng như BFS. Tao là DFS, còn mày? – BFS!"*  
 
-## **Mở Đầu: Trận Chiến Khởi Động**  
+### **Mở Đầu: Trận Chiến Khởi Động**  
 *"Mày dám đấu với tao không, thằng nghèo?"* – Tiếng quát của Tuấn "Đại Gia" vang lên giữa sân trường, kèm theo cái nhếch mép đầy khinh bỉ.  
 
 Trần Minh "Nghèo Rớt Mồng Tơi" đứng im, nắm chặt bàn tay. Đám đông xúm lại, điện thoại giơ lên livestream, hashtag *#ĐạiGiaVsNghèoKhó* bắt đầu trend.  
@@ -15,11 +15,11 @@ Một trận đấu không cân sức? Không. Đây là trận chiến của ha
 
 Và cuộc đời họ, chính là một **đồ thị** khổng lồ đang chờ được khám phá.  
 
----  
+---
 
-## **Chương 1: Lạc Trong Đồ Thị Cuộc Đời**  
+### **Chương 1: Lạc Trong Đồ Thị Cuộc Đời**  
 
-### **Cảnh 1: Gặp Gỡ Trên Đỉnh Phố Wall**
+**Cảnh 1: Gặp Gỡ Trên Đỉnh Phố Wall**
 Tuấn "Đại Gia" ngồi trong quán cafe sang chảnh, tay lướt iPhone 15 Pro Max, miệng bĩu: *"Mày biết không? Cuộc đời như cái đồ thị, tao là đỉnh, còn mày là cái nút lá rụng."*  
 
 Minh "Nghèo Rớt" đang giao shipper, dừng xe trước quán, mắt chạm ánh nhìn khinh thường. *"Ờ, đỉnh của mày là đỉnh giả, còn tao biết đường đi thật."*  
@@ -32,9 +32,7 @@ Tuấn chợt tò mò: *"Mày… học thuật toán à?"*
 
 Minh cười: *"Không, tao học từ cuộc sống. Mày muốn thử không?"*  
 
----  
-
-### **Cảnh 2: Trận Chiến Thuật Toán** 
+**Cảnh 2: Trận Chiến Thuật Toán** 
 Hai đứa đánh cược: Ai tìm ra đường ngắn nhất từ quán cafe tới nhà Minh trong 10 phút, thằng kia phải hốt rác cả tuần.  
 
 - **Tuấn chọn BFS**: Đi thẳng, hỏi từng người, phát tán tiền tip như trẩu tre. *"Tao đi rộng, đếch sợ lạc!"*  
@@ -44,9 +42,7 @@ Kết quả?
 
 Tuấn lạc vào dead-end, mặt đỏ như tôm luộc. Minh về trước, ngồi chống cằm cười: *"Đồ thị cuộc đời phức tạp lắm, đại gia ạ. Cứ đi rộng mà không hiểu sâu, mày chỉ tốn tiền thôi."*  
 
----  
-
-### **Cảnh 3: Bí Mật Đằng Sau Đồ Thị**
+**Cảnh 3: Bí Mật Đằng Sau Đồ Thị**
 Đêm đó, Tuấn bị bố cắt tiền vì tiêu xài hoang phí. Hắn gọi Minh: *"Tao cần mày giúp. Tao… không biết đường đi của chính mình."*  
 
 Minh dẫn Tuấn tới một khu ổ chuột, chỉ vào bản đồ phức tạp: *"Đây là đồ thị cuộc đời mày. Mày cứ đi ngang, nhưng chưa bao giờ đi sâu vào bất cứ thứ gì."*  
@@ -59,9 +55,7 @@ Tuấn cười lần đầu tiên không kiêu ngạo: *"Vậy từ giờ, tao v
 
 Minh đập tay: *"Deal! Nhưng nhớ, không có cheat code nào thay thế được trải nghiệm."*  
 
----  
-
-### **Kết Chương: Bắt Đầu Hành Trình**
+**Kết Chương: Bắt Đầu Hành Trình**
 Hai kẻ đối lập đứng trước ngã rẽ cuộc đời.  
 
 Tuấn hỏi: *"Mày nghĩ chúng ta sẽ thắng không?"*  
@@ -72,7 +66,6 @@ Minh nhìn xa xăm: *"Không biết. Nhưng ít nhất, giờ tao có đồng đ
 
 **(Còn tiếp... Chương 2: "Lội Ngược Dòng Đồ Thị")**  
 
----  
 **Tác giả note:**  
 - **DFS** = Đi sâu trước (kiểu mò mẫm từng ngõ).  
 - **BFS** = Đi rộng trước (kiểu quét hàng loạt).  
@@ -81,10 +74,11 @@ Minh nhìn xa xăm: *"Không biết. Nhưng ít nhất, giờ tao có đồng đ
 
 ---
 
-# **Chương 2: Lội Ngược Dòng Đồ Thị**  
+### **Chương 2: Lội Ngược Dòng Đồ Thị**  
+
 *"Cuộc đời này không phải là thuật toán để optimize, nhưng nếu không biết đường đi, mày sẽ mãi loop trong vô vọng." – Minh "Nghèo Rớt"*  
 
-## **Mở Cảnh: Dead-End và Lối Thoát**
+**Mở Cảnh: Dead-End và Lối Thoát**
 Tuấn "Đại Gia" ngồi bệt xuống vỉa hè, chiếc áo hoodie Limited Edition dính đầy bụi. Hắn nhìn xuống con đường tối om trước mặt – một **dead-end** thực sự, cả nghĩa đen lẫn nghĩa bóng.  
 
 *"Tao tưởng mày biết đường?"* – Minh chống tay lên hông, giọng đầy mỉa mai.  
@@ -101,9 +95,7 @@ Một tiếng thở dài. Tuấn đứng dậy, phủi quần: *"Tao ghét phả
 
 *"Nhưng mày vẫn sẽ nghe."* – Minh nhoẻn miệng cười.  
 
----  
-
-### **Cảnh 1: Hành Trình Backtrack**
+**Cảnh 1: Hành Trình Backtrack**
 Hai đứa quay lại con hẻm nhỏ mà Tuấn đã bỏ qua vì trông "quá bẩn". Minh dẫn đường, từng bước chậm rãi:  
 
 *"DFS là phải kiên nhẫn. Đi sâu, ghi nhớ ngõ cụt, rồi quay lại. Không có đường nào là vô ích."*  
@@ -124,9 +116,7 @@ Minh đẩy nhẹ một viên gạch lỏng lẻo – **cả bức tường mở
 
 *"Đồ thị luôn ẩn giấu những con đường mà BFS không bao giờ thấy."* – Minh cười ranh mãnh.  
 
----  
-
-### **Cảnh 2: Node Quyền Lực**
+**Cảnh 2: Node Quyền Lực**
 Sau bức tường là một **"node trung tâm"** – một sòng bạc chui, nơi tất cả các đường dây ngầm của thành phố giao nhau.  
 
 *"Chỗ này…"* – Tuấn nuốt nước bọt – *"Tao từng nghe bố tao nhắc tới. Nhưng ổng bảo đừng bao giờ tới."*  
@@ -143,9 +133,7 @@ Minh nghiêm mặt: *"Mày muốn bị **cycle** trong cái đồ thị này à?
 
 Tuấn im lặng. Lần đầu tiên, hắn thấy sợ.  
 
----  
-
-### **Cảnh 3: Gỡ Bỏ Visited[]**
+**Cảnh 3: Gỡ Bỏ Visited[]**
 Trên đường về, Tuấn hỏi: *"Sao mày biết chỗ đó?"*  
 
 Minh nhìn xa xăm: *"Tao từng là một **node** trong đồ thị đó. Nhưng tao đã **remove** chính mình."*  
@@ -160,9 +148,7 @@ Hắn vỗ vai Minh: *"Từ giờ, tao với mày sẽ vẽ lại đồ thị. B
 
 Minh cười: *"Thế thì phải **update visited[]** thường xuyên đấy. Không là lạc."*  
 
----  
-
-### **Kết Chương: Những Node Chưa Khám Phá**
+**Kết Chương: Những Node Chưa Khám Phá**
 Đêm đó, Tuấn nằm suy nghĩ về **đồ thị** mà hắn đã bỏ qua suốt bao năm.  
 
 *"Mày ngủ chưa?"* – Hắn nhắn tin cho Minh.  
@@ -179,7 +165,6 @@ Tin nhắn cuối cùng của Tuấn khiến Minh bật cười:
 
 **(Còn tiếp... Chương 3: "Cycle và Lối Thoát")**  
 
----  
 **Tác giả note:**  
 - **Backtrack** = Quay lui khi gặp ngõ cụt (kiểu "thua thì quay xe").  
 - **Visited[]** = Mảng đánh dấu những nơi đã đi qua (ẩn dụ: kinh nghiệm sống).  
@@ -188,10 +173,11 @@ Tin nhắn cuối cùng của Tuấn khiến Minh bật cười:
 
 ---
 
-# **Chương 3: Cycle và Lối Thoát**  
+### **Chương 3: Cycle và Lối Thoát**  
+
 *"Mày biết tại sao nhiều đứa mãi loay hoay trong vòng lặp không? Vì chúng nó quên đặt **điều kiện dừng**." – Minh "Nghèo Rớt"*  
 
-## **Mở Cảnh: Vòng Xoáy Của Kẻ Mắc Kẹt**
+**Mở Cảnh: Vòng Xoáy Của Kẻ Mắc Kẹt**
 Tiếng chuông điện thoại réo lúc 2 giờ sáng. Tuấn "Đại Gia" bật dậy, mắt nhìn dòng tin nhắn chói lóa:  
 
 **"Tao thua rồi. Tao không thoát được."** – Tin nhắn từ thằng bạn thân nhất, Duy "Tiền Đô".  
@@ -206,9 +192,7 @@ Tuấn quăng điện thoại xuống giường, hai tay ôm đầu. **Cycle.** 
 
 Tuấn chộp lấy áo khoác: *"Đi thôi. Tao không để nó thành **infinite loop** đâu."*  
 
----  
-
-### **Cảnh 1: Thuật Toán Giải Cứu**
+**Cảnh 1: Thuật Toán Giải Cứu**
 Trước đồn công an, Duy "Tiền Đô" ngồi co ro, mắt đỏ ngầu. Thấy Tuấn, nó gần như gào lên: *"Tao đ** còn đường lui! Bọn nó đòi 500 triệu!"*  
 
 Minh ngồi xuống, bình tĩnh vẽ một đồ thị lên giấy: *"Mày đang ở **node** này. Muốn thoát, phải tìm **bridge edge** – cạnh duy nhất nối ra ngoài."*  
@@ -221,9 +205,7 @@ Tuấn đứng phía sau, lần đầu tiên thấy Minh **logic** đến đáng
 
 *"Từ những lần **debug** cuộc đời tao."* – Minh cười nhạt.  
 
----  
-
-### **Cảnh 2: Topological Sort và Kẻ Phản Bội**
+**Cảnh 2: Topological Sort và Kẻ Phản Bội**
 Kế hoạch được vạch ra:  
 1. **Duy làm chứng** (node đầu tiên).  
 2. **Tuấn dùng quan hệ** gia đình gây áp lực (node quyền lực).  
@@ -241,9 +223,7 @@ Hắn lấy điện thoại, gọi một số mà ngay cả Minh cũng giật m�
 
 *"Tao chọn **DFS xuống tận gốc**."* – Tuấn nói. *"Kể cả phải lật cả cái **đồ thị** này lên."*  
 
----  
-
-### **Cảnh 3: Break The Cycle**
+**Cảnh 3: Break The Cycle**
 Hai ngày sau, scandal đường dây cho vay nặng lãi nổ tung. Duy được tha, nhưng cái giá phải trả là...  
 
 *"Bố mày bị điều tra rồi."* – Minh nói khi hai đứa đứng nhìn Duy lên xe về quê.  
@@ -258,9 +238,7 @@ Tuấn trợn mắt: *"Greedy?"*
 
 Tuấn phì cười: *"Tao đ** care optimal. Tao chỉ biết bạn bè quan trọng hơn **đồ thị quyền lực**."*  
 
----  
-
-### **Kết Chương: Những Node Đơn Độc**
+**Kết Chương: Những Node Đơn Độc**
 Đêm đó, Tuấn đứng trước biệt thự trống trơn – bố hắn đã bị tạm giam.  
 
 Minh tới, đưa cho hắn một chai nước: *"Giờ mày hiểu **cycle** là gì rồi chứ?"*  
@@ -277,7 +255,6 @@ Một chiếc xe cảnh sát đi ngang, ánh đèn loang lổ trên mặt đư�
 
 **(Còn tiếp... Chương 4: "Shortest Path")**  
 
----  
 **Tác giả note:**  
 - **Cycle** = Vòng lặp không lối thoát (nợ nần, nghiện ngập).  
 - **Topological Sort** = Sắp xếp thứ tự để không bị mâu thuẫn (kiểu "giải quyết từ gốc").  
@@ -287,10 +264,10 @@ Một chiếc xe cảnh sát đi ngang, ánh đèn loang lổ trên mặt đư�
 
 ---
 
-# **Chương 4: Shortest Path**  
+### **Chương 4: Shortest Path**  
 *"Trong đồ thị cuộc đời, đường ngắn nhất chưa chắc là đường dễ đi nhất. Nhưng nếu không dám bước, mày sẽ mãi là một **isolated node**." – Tuấn "Đại Gia"*  
 
-## **Mở Cảnh: Node Cô Độc**
+**Mở Cảnh: Node Cô Độc**
 Màn đêm buông xuống khu nhà tập thể cũ, tiếng mưa rơi lộp độp trên mái tôn. Minh "Nghèo Rớt" ngồi co ro trong góc phòng trọ 9m², tay lướt qua danh sách học bổng duy nhất vừa bị từ chối.  
 
 **"Application rejected"** - Dòng chữ đỏ chói lóa trên màn hình.  
@@ -301,9 +278,7 @@ Màn đêm buông xuống khu nhà tập thể cũ, tiếng mưa rơi lộp đ�
 
 *"Mày có 5 phút thu xếp đồ đạc. Chúng ta đi tìm **shortest path**."*  
 
----  
-
-### **Cảnh 1: Thuật Toán Dijkstra và Kẻ Bỏ Trốn**
+**Cảnh 1: Thuật Toán Dijkstra và Kẻ Bỏ Trốn**
 Trên chuyến xe đêm tới Đà Nẵng, Tuấn vừa lái vừa giải thích:  
 
 *"Bố tao có thằng em làm trong hội đồng tuyển sinh. USB này chứa proof chúng nó **gian lận học bổng**."*  
@@ -318,9 +293,7 @@ Một ánh chớp xé ngang bầu trời. Minh chợt nhận ra - đây là lầ
 
 *"Thì coi như chúng ta **relax** sai edge thôi."* - Tuấn nhún vai.  
 
----  
-
-### **Cảnh 2: Negative Cycle** 
+**Cảnh 2: Negative Cycle** 
 Hai đứa lẻn vào văn phòng trường đại học lúc nửa đêm. Khi Minh đang cắm USB vào máy tính, đèn bật sáng.  
 
 Một bóng người quen thuộc xuất hiện - **Hiệu trưởng Lâm**, cũng chính là chú ruột Tuấn.  
@@ -335,9 +308,7 @@ Tuấn đứng hình. Minh nhận ra ngay - họ vừa bước vào **negative c
 
 *"Thuật toán phát hiện **negative cycle**. Giờ chỉ có cách **tố cáo công khai** mới break được vòng lặp."*  
 
----  
-
-### **Cảnh 3: Reset Visited[]**
+**Cảnh 3: Reset Visited[]**
 Sáng hôm sau, bài báo tố giác gian lận học bổng lan truyền chóng mặt. Hiệu trưởng Lâm bị đình chỉ, nhưng...  
 
 *"Mày bị đuổi học luôn rồi."* - Tuấn nói với vẻ hối hận.  
@@ -358,9 +329,7 @@ Tuấn vẽ một node mới toanh: *"Startup. Tao có vốn, mày có kỹ năn
 
 *"Sợ. Nhưng đã biết cách **detect** rồi."*  
 
----  
-
-### **Kết Chương: New Node**
+**Kết Chương: New Node**
 Hai thằng ngồi im lặng nghe sóng vỗ, mỗi đứa một suy nghĩ.  
 
 *"Mày biết không?"* - Minh bỗng nói. *"Có một thứ gọi là **A* algorithm**."*  
@@ -377,7 +346,6 @@ Một con sóng lớn ập vào bờ, xóa đi những nét vẽ nguệch ngoạ
 
 **(Còn tiếp... Chương cuối: "Connected Components")**  
 
----  
 **Tác giả note:**  
 - **Dijkstra** = Thuật toán tìm đường ngắn nhất (nhưng không chịu được negative edge).  
 - **Bellman-Ford** = Thuật toán phát hiện negative cycle (vòng lặp độc hại).  
@@ -387,12 +355,10 @@ Một con sóng lớn ập vào bờ, xóa đi những nét vẽ nguệch ngoạ
 
 ---
 
-# **Chương 5: Connected Components**  
+### **Chương 5: Connected Components**  
 *"Cuối cùng thì... những node tưởng chừng chẳng liên quan gì đến nhau, hóa ra đều thuộc cùng một đồ thị lớn." – Minh "Nghèo Rớt"*  
 
----  
-
-## **Mở Cảnh: Những Mảnh Ghép Rời Rạc**
+**Mở Cảnh: Những Mảnh Ghép Rời Rạc**
 
 **Hai năm sau...**  
 
@@ -410,9 +376,7 @@ Tuấn lắc đầu, đặt tập tài liệu lên bàn. Trang đầu tiên ghi 
 
 **"Thuật toán Kosaraju – Tìm Connected Components trong đồ thị có hướng."**  
 
----  
-
-### **Cảnh 1: Reverse Graph**
+**Cảnh 1: Reverse Graph**
 
 Minh lật từng trang, mắt mở to: *"Mày nghiên cứu cả cái này?"*  
 
@@ -428,9 +392,7 @@ Minh chậm rãi gật đầu: *"Kiểu như... số phận đã vẽ sẵn đ�
 
 Một ánh chớp lóe lên ngoài cửa sổ. Hai đứa nhìn nhau, cùng hiểu ra điều gì đó lớn hơn.  
 
----  
-
-### **Cảnh 2: Tarjan's Algorithm**
+**Cảnh 2: Tarjan's Algorithm**
 
 Sáng hôm sau, tại văn phòng startup của hai đứa...  
 
@@ -450,9 +412,7 @@ Minh chợt nhớ lại khu ổ chuột năm xưa, nơi hắn từng là một *
 
 *"Thuật toán **gộp** những tập hợp rời rạc lại."* – Minh cười. *"Như cách mày với tao đã làm."*  
 
----  
-
-### **Cảnh 3: Gộp Các Thành Phần**
+**Cảnh 3: Gộp Các Thành Phần**
 
 **6 tháng sau...**  
 
@@ -466,9 +426,7 @@ Dưới khán đài, Duy "Tiền Đô" – giờ đã là quản lý một chu�
 
 Còn Minh thì đang say sưa giải thích cho một cô bé đường phố: *"Em thấy không? Cuộc đời như cái đồ thị khổng lồ. Nhưng chỉ cần **một cạnh nối** thôi, mọi thứ sẽ thay đổi."*  
 
----  
-
-## **Kết Truyện: Đồ Thị Vô Hạn**
+**Kết Truyện: Đồ Thị Vô Hạn**
 
 Đêm đó, hai đứa ngồi trên nóc toà nhà, nhìn thành phố lấp lánh dưới chân.  
 
@@ -488,7 +446,6 @@ Hai chai nước chạm vào nhau, dưới bầu trời đầy sao – nơi nh�
 
 **THE END...?**  
 
----  
 **Tác giả note:**  
 - **Kosaraju/Tarjan** = Thuật toán tìm thành phần liên thông mạnh (những nhóm người gắn bó).  
 - **Union-Find** = Thuật toán gộp các tập hợp (giống như kết nối cộng đồng).  

@@ -18,31 +18,31 @@ Căn bếp nhỏ của Khoa bốc mùi dầu mỡ, mì gói và… sự bế t�
 
 ### **CHƯƠNG 1: "BALÔ RỖNG VÀ NHỮNG THỨ KHÔNG THỂ BỎ QUA"**  
 
-#### **Cảnh 1: "Một Like, Một Nỗi Đau"**  
+**Cảnh 1: "Một Like, Một Nỗi Đau"**  
 *"Các em ơi, chị Sương đang có deal son Black Rouge giảm tới 60%, like share ngay để nhận mã giảm giá nha!"* – Thy gào vào mic, nụ cười tươi như hoa nhưng mắt thâm quầng vì thức đêm. Chat liên tục tràn vào: *"Chị ơi, em muốn mua nhưng lương chưa về…"*, *"Chị có ship COD không?"*  
 
 Khoa ngồi góc phòng, lướt điện thoại rồi thở dài: *"Mày bán cả tháng mà tiền đâu? Toàn đơn huỷ!"*  
 Thy tắt livestream đột ngột, mặt đỏ bừng: *"Tao còn phải trả tiền thuê nhà, tiền điện, tiền data… Mày nghĩ dễ à?"*  
 Khoa chỉ vào cái balô cũ kỹ của Thy đang chất đầy mẫu son, quần áo chưa giặt: *"Xách cả thế giới trên vai mà túi rỗng. Sai chiến lược rồi!"*  
 
-#### **Cảnh 2: "Nồi Chiên Không Dầu và Bài Toán Cuộc Đời"**  
+**Cảnh 2: "Nồi Chiên Không Dầu và Bài Toán Cuộc Đời"**  
 Khoa bật nồi chiên không dầu, mùi khoai tây thơm lừng. *"Mày biết không, nấu ăn cũng như sống. Phải biết cái gì bỏ vào trước, cái gì để sau."*  
 Thy nhíu mày: *"Ý mày là sao?"*  
 *"Ví dụ này!"* – Khoa vớ tờ giấy, vẽ nguệch ngoạc: *"Giả sử balô đời mày chỉ chịu được 5kg, nhưng mày có 10 món: tiền, tình yêu, sự nghiệp, gia đình… Mày chọn cái gì?"*  
 Thy cười khẩy: *"Chọn hết!"*  
 *"Thế là fail!"* – Khoa đập tay xuống bàn. *"Phải chọn sao cho giá trị lớn nhất mà không vỡ balô. Đó gọi là… bài toán cái túi!"*  
 
-#### **Cảnh 3: "Quyết Định Không Thể Take Back"**  
+**Cảnh 3: "Quyết Định Không Thể Take Back"**  
 Thy chợt hiểu ra điều gì, mắt sáng lên: *"Tức là tao phải ưu tiên thứ quan trọng nhất?"*  
 Khoa gật đầu: *"Ví dụ: Thay vì stream 10 tiếng bán đủ thứ, mày tập trung vào 1-2 món chất lượng. Tiết kiệm thời gian, công sức, mà lợi nhuận cao hơn!"*  
 Thy lặng người, nhìn lại đống hàng tồn kho. *"Nhưng nếu tao bỏ bớt, liệu có ổn không?"*  
 Khoa cười: *"Đời là phải chấp nhận trade-off. Không thể ôm hết!"*  
 
-#### **Cao Trào: "Balô Vỡ Toang"**  
+**Cao Trào: "Balô Vỡ Toang"**  
 Đột nhiên, dây đeo balô của Thy đứt phựt, đồ đạc đổ ầm xuống sàn. Hai đứa nhìn nhau, bật cười.  
 *"See? Quá tải rồi!"* – Khoa nhặt chiếc son dập nát lên. *"Giờ thì phải chọn lại từ đầu thôi."*  
 
-#### **Kết Chương:**  
+**Kết Chương:**  
 Thy thở dài, nhìn ra cửa sổ. *"Vậy… tao nên bắt đầu từ đâu?"*  
 Khoa xoay người, chỉ tay về phía mặt trời lặn. *"Từ việc dọn cái đống hỗn độn này!"*  
 
@@ -52,14 +52,12 @@ Khoa xoay người, chỉ tay về phía mặt trời lặn. *"Từ việc dọn
 
 ---
 
-**CHƯƠNG 2: "YÊU LÀ MỘT DẠNG ĐẦU TƯ CÓ KỲ HẠN"**  
+### **CHƯƠNG 2: "YÊU LÀ MỘT DẠNG ĐẦU TƯ CÓ KỲ HẠN"**  
 *(Tác giả note: Chương này sẽ có vài khái niệm "nghe chuyên ngành" nhưng thực ra là mấy thứ ai cũng gặp, ví dụ: opportunity cost = cái giá của việc bạn chọn người này mà bỏ người kia. Đại loại là chọn bạn mà chơi, chọn gái mà đổ tiền.)*  
 
 #ĐờiLàPhảiBiếtChọnLựa #TradeOffNhưNgườiTừngTrải  
 
----  
-
-### **Cảnh 1: "Tinder và Bài Toán Chi Phí Cơ Hội"**  
+**Cảnh 1: "Tinder và Bài Toán Chi Phí Cơ Hội"**  
 Thy "Sương Sương" lướt Tinder như đang đi siêu thị, mặt nhăn như bị đau răng: *"Sao toàn mấy anh 'đầu tư bất động sản' nhưng hình selfie trong toilet thế này?"*  
 
 Khoa "Cân Cơm" ngồi bên cạnh, bụm miệng cười: *"Mày đang gặp vấn đề phân bổ nguồn lực đấy. Swipe phải nhiều quá -> match loạn xạ -> tốn thời gian nhắn tin -> cuối cùng chả đứa nào ra cục đường!"*  
@@ -70,9 +68,7 @@ Khoa chỉ vào điện thoại: *"Áp dụng quy hoạch động! Đặt tiêu 
 
 *(Tác giả note: Đây gọi là "ràng buộc cứng" trong bài toán tối ưu. Còn nếu bạn phá lệ, coi chừng "lỗi runtime" trong tim.)*  
 
----  
-
-### **Cảnh 2: "Date 0 Đồng và Nghệ Thuật Tối Ưu Chi Phí"**  
+**Cảnh 2: "Date 0 Đồng và Nghệ Thuật Tối Ưu Chi Phí"**  
 Thy quyết định áp dụng "chiến lược balô" vào buổi date đầu tiên với anh chàng "Freelance Designer" (tự xưng).  
 
 - **Bước 1:** Chọn địa điểm free (công viên) thay vì quán sang chảnh. *(Tối ưu không gian balô: tiết kiệm tiền.)*  
@@ -83,9 +79,7 @@ Kết quả: Sau 10 phút, anh chàng lộ diện là "trai có vợ" khi vô t�
 
 #PhátHiệnSớmLàNéĐượcBão  
 
----  
-
-### **Cảnh 3: "Tình Yêu hay Sự Nghiệp? Phải Chọn Một à?"**  
+**Cảnh 3: "Tình Yêu hay Sự Nghiệp? Phải Chọn Một à?"**  
 Tối đó, Thy ngồi nhìn bảng doanh thu tháng, thở dài: *"Stream cả ngày mà tiền vẫn không đủ trả nợ. Hay là… tao nên tạm dừng yêu đương để tập trung kiếm tiền?"*  
 
 Khoa bưng ra dĩa cơm chiên trứng muối, phán: *"Mày đang đối mặt với 'bài toán đa mục tiêu'. Nhưng đời không phải lúc nào cũng ăn cả 2 món. Phải biết hy sinh cái gì đó!"*  
@@ -96,9 +90,7 @@ Khoa cười: *"Thế này nhé: Nếu mày đầu tư 3 tháng không date, t�
 
 *(Tác giả note: Hay còn gọi là "trì hoãn hưởng thụ" – thứ mà GenZ ghét nhất nhưng lại cứu mạng họ sau này.)*  
 
----  
-
-### **Cao Trào: "Cú Twist Kinh Điển"**  
+**Cao Trào: "Cú Twist Kinh Điển"**  
 Đúng lúc Thy gật đầu đồng ý "tuyệt tình 90 ngày", điện thoại cô bỗng reo lên. Tin nhắn từ anh chàng từng match trên Tinder: *"Em ơi, anh vừa chia tay vợ. Anh muốn gặp em nói chuyện…"*  
 
 Khoa nhìn Thy, Thy nhìn Khoa.  
@@ -111,9 +103,7 @@ Cô nhấn nút **Block**.
 
 #Chương3SẽLàCúLừaTìnhCảm #StayTuned  
 
----  
-
-**Tác giả note cuối chương:**  
+Tác giả note cuối chương:**  
 - *"Opportunity cost" = Khi bạn chọn ngủ nướng thay vì đi làm, cái giá phải trả là tiền lương. Còn nếu bạn chọn yêu đương mù quáng, cái giá là… tương lai.*  
 - *"Ràng buộc cứng" = Những thứ bạn không thể thương lượng, như việc người yêu bạn phải biết dọn rác sau khi ăn.*  
 - *Hãy nhớ: Cuộc đời là bài toán, nhưng đáp án không phải lúc nào cũng nằm trong phần "đáp án phía sau sách"!*  
@@ -122,15 +112,13 @@ Cô nhấn nút **Block**.
 
 ---
 
-**CHƯƠNG 3: "CÂN BẰNG HẠNH PHÚC – BÀI TOÁN KEPLER CỦA KẺ MỘNG MƠ"**  
+### **CHƯƠNG 3: "CÂN BẰNG HẠNH PHÚC – BÀI TOÁN KEPLER CỦA KẺ MỘNG MƠ"**  
 
 *(Tác giả note: Chương này sẽ có vài khái niệm "nghe thiền sư giảng" nhưng thực ra là mấy thứ đời thường: Pareto Optimal = khi bạn đạt trạng thái không thể hạnh phúc hơn nếu không làm ai đó khổ. Kiểu như chia miếng bánh mà cả hai đều ừ thì được, còn một đứa khóc là fail.)*  
 
 #HạnhPhúcLàMộtDạngTốiƯu #KhócMộtMìnhChoĐỡTốnData  
 
----  
-
-### **Cảnh 1: "Cái Giá Của Việc Làm Người Tử Tế"**  
+**Cảnh 1: "Cái Giá Của Việc Làm Người Tử Tế"**  
 
 Thy "Sương Sương" ngồi co ro trong quán cà phê 20k, mắt đỏ hoe vì clip "tuyệt tình 90 ngày" bị anti-fan bình luận: *"Sống ảo quên sống thật!"*  
 
@@ -142,9 +130,7 @@ Thy húp vội miếng nước dùng: *"Nghĩa là sao?"*
 
 *(Tác giả note: Pareto Frontier là biên giới của sự chấp nhận. Kiểu như bạn có thể nhịn đói để mua iPhone, nhưng đừng hỏi tại sao đời không như mơ.)*  
 
----  
-
-### **Cảnh 2: "Thuật Toán Hạnh Phúc và Những Thứ Không Thể Mua"**  
+**Cảnh 2: "Thuật Toán Hạnh Phúc và Những Thứ Không Thể Mua"**  
 
 Thy quyết định chọn cách thứ ba: **Im lặng và chờ bão tan**. Nhưng rồi cô phát hiện ra một sự thật phũ phàng:  
 
@@ -158,9 +144,7 @@ Khoa cười: *"Vì mày đang đòi hỏi một giải pháp nằm ngoài Paret
 
 #SốngẢoSốngSốngThậtĐềuKhổNhưNhau  
 
----  
-
-### **Cảnh 3: "Hack Não, Hack Cuộc Đời"**  
+**Cảnh 3: "Hack Não, Hack Cuộc Đời"**  
 
 Khoa đưa ra kế hoạch táo bạo:  
 1. **Đa nhiệm thông minh:** Stream bán hàng trong lúc tập yoga (vừa kiếm tiền vừa giữ sức khỏe).  
@@ -173,9 +157,7 @@ Khoa nhún vai: *"Pareto không quan tâm đạo đức. Nó chỉ quan tâm đ�
 
 *(Tác giả note: Pareto Improvement = khi bạn thay đổi mà không ai bị thiệt. Ví dụ: Block thằng toxic ex thì cuộc đời mày đẹp hơn, còn nó… kệ cha nó.)*  
 
----  
-
-### **Cao Trào: "Cú Lừa Tình Cảm Của Vũ Trụ"**  
+**Cao Trào: "Cú Lừa Tình Cảm Của Vũ Trụ"**  
 
 Khi Thy chuẩn bị áp dụng chiến lược "hạnh phúc kiểu Pareto", thì bỗng nhiên…  
 
@@ -189,9 +171,7 @@ Khoa im lặng, đặt tay lên vai cô: *"Có những thứ không nằm trong 
 
 #Chương4SẽLàNhữngThứKhôngThểTốiƯu  
 
----  
-
-**Tác giả note:**  
+Tác giả note:**  
 - *"Pareto Optimal" = Khi mày đạt đến trạng thái không thể hạnh phúc hơn nữa mà không hy sinh thứ khác. Nhưng đôi khi, hy sinh chính là cách để mở rộng biên giới.*  
 - *Cuộc đời không phải lúc nào cũng là bài toán. Có những giá trị vô hình không thể nhét vào balô, như tình yêu, gia đình, và… những cái ôm khi ta gục ngã.*  
 - *Hãy nhớ: GenZ có thể tính toán mọi thứ, nhưng đừng để mình trở thành cỗ máy không biết khóc!*  
@@ -200,15 +180,13 @@ Khoa im lặng, đặt tay lên vai cô: *"Có những thứ không nằm trong 
 
 ---
 
-**CHƯƠNG 4: "NHỮNG THỨ KHÔNG THỂ NHÉT VÀO BALÔ"**  
+### **CHƯƠNG 4: "NHỮNG THỨ KHÔNG THỂ NHÉT VÀO BALÔ"**  
 
 *(Tác giả note: Chương này sẽ không có công thức, không có thuật toán, chỉ có những thứ mà dù bạn có là master quy hoạch động cũng phải bó tay: tình cảm, gia đình, và những giọt nước mắt không thể tối ưu.)*  
 
 #KhôngCóThuậtToánNàoChoTráiTim #GenZCũngPhảiKhóc  
 
----  
-
-### **Cảnh 1: "Bài Toán Không Có Lời Giải"**  
+**Cảnh 1: "Bài Toán Không Có Lời Giải"**  
 
 Thy "Sương Sương" đứng trước cửa phòng bệnh viện, tay nắm chặt chiếc balô đựng toàn đồ livestream. Bên trong, mẹ cô đang ngủ thiếp đi sau đợt hóa trị đầu tiên.  
 
@@ -222,9 +200,7 @@ Khoa lắc đầu: *"Mày đang cố nhét một tảng đá vào balô vải. K
 
 *(Tác giả note: Đôi khi, bài toán lớn nhất không phải là "chọn gì", mà là "chấp nhận mình không thể ôm hết mọi thứ".)*  
 
----  
-
-### **Cảnh 2: "Những Thứ Không Thể Tính Bằng Tiền"**  
+**Cảnh 2: "Những Thứ Không Thể Tính Bằng Tiền"**  
 
 Thy ngồi bên giường bệnh, lần đầu tiên tắt điện thoại suốt 24 tiếng. Cô nhận ra:  
 
@@ -238,9 +214,7 @@ Thy khẽ gật đầu, nước mắt rơi vào bát cháo: *"Tao hiểu rồi�
 
 #NhữngThứKhôngThểMuaNhưngCũngKhôngThểMất  
 
----  
-
-### **Cảnh 3: "Reset Lại Từ Đầu"**  
+**Cảnh 3: "Reset Lại Từ Đầu"**  
 
 Đêm đó, Thy viết một dòng trạng thái:  
 
@@ -258,9 +232,7 @@ Khoa ngồi bên cửa sổ, nhìn ra thành phố đèn điện sáng rực: *"
 
 *(Tác giả note: Trong quy hoạch động, đôi khi bạn phải "reset" lại bảng memo khi gặp điều kiện biên. Cuộc đời cũng vậy, đừng sợ bắt đầu lại.)*  
 
----  
-
-### **Cao Trào: "Balô Rỗng Mà Đầy"**  
+**Cao Trào: "Balô Rỗng Mà Đầy"**  
 
 Sáng hôm sau, Thy mở balô ra, bỏ hết:  
 
@@ -278,24 +250,20 @@ Khoa cười: *"Giờ thì balô của mày đã tối ưu rồi đấy."*
 
 #ChươngCuốiSẽLàKhởiĐầuMới  
 
----  
-
-**Tác giả note:**  
+Tác giả note:**  
 - *Đời không phải lúc nào cũng là bài toán cần giải. Có những thứ phải cảm nhận bằng trái tim.*  
 - *Balô của bạn có thể nhẹ đi, nhưng cuộc sống sẽ nặng thêm ý nghĩa.*  
 - *Và đôi khi, từ bỏ chính là cách để… chiến thắng.*  
 
 #KhôngCóThuậtToánChoHạnhPhúc #GenZCũngPhảiSốngChậmLại
 
-**CHƯƠNG 5: "BALÔ MỚI VÀ NHỮNG CON ĐƯỜNG CHƯA ĐI"**  
+### **CHƯƠNG 5: "BALÔ MỚI VÀ NHỮNG CON ĐƯỜNG CHƯA ĐI"**  
 
 *(Tác giả note: Chương cuối này không phải là hồi kết, mà là bản nhạc outro khiến bạn vừa gật gù vừa chảy nước mắt. Vì đời ai cũng phải cân bằng giữa "đam mê" và "cơm áo", giữa "ước mơ" và "thực tế". Nhưng ít nhất, ta đã học cách đóng gói chúng khéo hơn.)*  
 
 #TạmBiệtKhôngCóNghĩaLàHết #GenZVersion2.0SắpRaMắt  
 
----  
-
-### **Cảnh 1: "Quán Cơm 20K và Kế Hoạch Tái Xuất Giang Hồ"**  
+**Cảnh 1: "Quán Cơm 20K và Kế Hoạch Tái Xuất Giang Hồ"**  
 
 Hai tháng sau, quán cơm bình dân "Cân Cơm" khai trương với menu siêu dị:  
 
@@ -309,9 +277,7 @@ Khoa nhìn cô gắp thử miếng thịt, cười: *"Mày thấy không? Chỉ 
 
 *(Tác giả note: Dynamic Programming trong đời thực là thế – chia nhỏ bữa ăn để không bị ngán, chia nhỏ ước mơ để không bị quá tải.)*  
 
----  
-
-### **Cảnh 2: "Streamer Mới Hay Triết Gia Cà Phê?"**  
+**Cảnh 2: "Streamer Mới Hay Triết Gia Cà Phê?"**  
 
 Thy quay lại YouTube với format mới:  
 
@@ -327,9 +293,7 @@ Khoa đọc chat, cười: *"Mày đã đạt đến trạng thái tối ưu Par
 
 Thy ném khăn lau bát vào mặt hắn: *"Câm mồm lại và phụ tao dọn bàn!"*  
 
----  
-
-### **Cảnh 3: "Những Gì Còn Lại Trong Balô"**  
+**Cảnh 3: "Những Gì Còn Lại Trong Balô"**  
 
 Tối muộn, hai đứa ngồi trên nóc nhà kho nhìn ra thành phố.  
 
@@ -342,9 +306,7 @@ Khoa lấy ra chai rượu nếp 20k: *"Còn tao, luôn dành chỗ cho thứ n�
 
 Hai đứa cười, nâng ly.  
 
----  
-
-### **Cao Trào: "Bài Toán Cuối Cùng"**  
+**Cao Trào: "Bài Toán Cuối Cùng"**  
 
 Thy đột nhiên hỏi: *"Nếu giờ phải bỏ lại một thứ trong balô, mày chọn gì?"*  
 
@@ -354,9 +316,7 @@ Khoa suy nghĩ, rồi chỉ vào chai rượu: *"Thứ này. Vì…"*
 
 *(Tác giả note: Đôi khi lời giải cho bài toán phức tạp nhất lại đơn giản không ngờ.)*  
 
----  
-
-### **Kết Truyện: "Không Phải Hồi Kết"**  
+**Kết Truyện: "Không Phải Hồi Kết"**  
 
 Sáng hôm sau, quán "Cân Cơm" đông nghẹt khách.  
 
@@ -370,9 +330,7 @@ Trên tường quán, dòng chữ viết bằng phấn:
 
 #TheEnd #NhưngLạiLàBắtĐầu  
 
----  
-
-**Tác giả note:**  
+Tác giả note:**  
 - *Quy hoạch động không phải để sống mái với đời, mà để bạn đủ linh hoạt khi đổi hướng.*  
 - *Balô của bạn có thể nhẹ hay nặng, nhưng phải luôn có chỗ cho… một chai rượu (hoặc trà sữa) chia sẻ với ai đó.*  
 - *Và nhớ nhé: Trong ma trận "tiền-tình-thời gian", không có đáp án đúng tuyệt đối – chỉ có lựa chọn phù hợp nhất với phiên bản hiện tại của bạn thôi!*  
