@@ -5,7 +5,7 @@
 
 ## 📖 Giới thiệu
 
-Đây là nơi mình chia sẻ những câu chuyện thú vị nơi giao thoa giữa thuật toán và cuộc sống. Mình tạo repo này với mong muốn:
+Đây là nơi mình chia sẻ những câu truyện thú vị nơi giao thoa giữa thuật toán và cuộc sống. Mình tạo repo này với mong muốn:
 
 - Giúp mọi người tiếp cận thuật toán một cách gần gũi, dễ hiểu
 - Cùng khám phá những bài học sâu sắc ẩn sau các vấn đề kỹ thuật
@@ -16,7 +16,7 @@
 
 Trong repo này, mình đang và sẽ chia sẻ:
 
-- Những câu chuyện ẩn dụ giúp hiểu thuật toán theo cách mới
+- Những câu truyện ẩn dụ giúp hiểu thuật toán theo cách mới
 - Bài học cuộc sống mình rút ra từ lập trình
 - So sánh thú vị giữa code và đời thực
 - Cách tiếp cận sáng tạo để giải quyết vấn đề
@@ -25,7 +25,7 @@ Trong repo này, mình đang và sẽ chia sẻ:
 
 Mình rất vui nếu bạn muốn đóng góp cho dự án này! Nếu bạn có:
 
-- Câu chuyện hay về thuật toán
+- Câu truyện hay về thuật toán
 - Góc nhìn độc đáo về công nghệ
 - Ý tưởng truyền đạt kiến thức sáng tạo
 
@@ -43,4 +43,4 @@ Website: [nguyenminhkhoi.io.vn](https://nguyenminhkhoi.io.vn)
 
 ---
 
-_"Code không chỉ là code - đằng sau mỗi thuật toán là cả một câu chuyện đời"_
+_"Code không chỉ là code - đằng sau mỗi thuật toán là cả một câu truyện đời"_
