@@ -1,6 +1,6 @@
 ***Viết bởi [Deepeek](https://deepseek.com/), kiểm duyệt bởi [Nờ Mờ Ka](https://github.com/nguyenminhkhoi2009/)***
 
-# **Balô Đời - Giải Thuật "Xách Gì Trên Vai Tuổi 20?"**  
+# BALÔ ĐỜI – XÁCH GÌ TRÊN VAI TUỔI 20?
 
 *(Dành cho những bạn GenZ vừa muốn code ngon, vừa muốn sống ảo không phí)*  
 
