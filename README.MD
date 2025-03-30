@@ -56,6 +56,10 @@ Hãy cùng trò chuyện với mình tại:
 
 _"Mỗi dòng code đều xứng đáng có một câu chuyện để kể"_  
 
-![VCM: 1051301090 - NGUYENMINHKHOI](https://nguyenminhkhoi2009.github.io/nguyenminhkhoi.io.vn-cauchuyenvathuattoan/png/VCM_Donate.png)
+## 💖 Ủng hộ mình
+
+Nếu thấy nội dung hữu ích, bạn có thể ủng hộ mình qua:
+
+![Vietcombank: 1051301090 - NGUYENMINHKHOI](https://nguyenminhkhoi2009.github.io/nguyenminhkhoi.io.vn-cauchuyenvathuattoan/png/VCM_Donate.png)
 
 **P/S:** Đừng quên ★ star repo nếu bạn thấy hữu ích nhé!
