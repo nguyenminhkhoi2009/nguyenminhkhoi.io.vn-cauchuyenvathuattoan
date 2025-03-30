@@ -1,4 +1,4 @@
-***Viết bởi [Deepeek](https://deepseek.com/), kiểm duyệt bởi [Nờ Mờ Ka](https://github.com/nguyenminhkhoi2009/)***
+***Viết bởi [Deepseek](https://deepseek.com/), kiểm duyệt bởi [Nờ Mờ Ka](https://github.com/nguyenminhkhoi2009/)***
 
 ---
 
