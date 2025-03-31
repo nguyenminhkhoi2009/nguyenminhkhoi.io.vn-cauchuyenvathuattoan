@@ -244,7 +244,7 @@ Khoa gật đầu hài lòng: *"Giờ thì balô của mày mới thực sự '�
 
 *#ChươngCuốiSẽLàKhởiĐầuMới*
 
-Tác giả note:**  
+**Tác giả note:**
 - *Đời không phải lúc nào cũng là bài toán cần giải. Có những thứ phải cảm nhận bằng trái tim.*  
 - *Balô của bạn có thể nhẹ đi, nhưng cuộc sống sẽ nặng thêm ý nghĩa.*  
 - *Và đôi khi, từ bỏ chính là cách để mà bạn trở nên tốt hơn!*  
