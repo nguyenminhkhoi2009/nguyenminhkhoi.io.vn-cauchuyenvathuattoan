@@ -38,37 +38,26 @@ Linh gật gù: *"Rồi sao? Mày code được chưa?"*
 Nam gõ nhanh một đoạn code C++:  
 
 ```cpp
-#include <iostream>
-#include <vector>
-using namespace std;
-
-struct Item {
-    int weight;
-    int value;
+struct DoVat {
+    int trongLuong;
+    int giaTri;
 };
 
-int knapsack(int W, vector<Item>& items, int n) {
-    vector<vector<int>> dp(n + 1, vector<int>(W + 1, 0));
-    
+int knapsack(int sucChua, vector<DoVat>& danhSachDo) {
+    int n = danhSachDo.size();
+    vector<vector<int>> dp(n + 1, vector<int>(sucChua + 1, 0));
+
     for (int i = 1; i <= n; i++) {
-        for (int w = 0; w <= W; w++) {
-            if (items[i-1].weight <= w) {
+        for (int w = 0; w <= sucChua; w++) {
+            if (danhSachDo[i-1].trongLuong <= w) {
                 dp[i][w] = max(dp[i-1][w], 
-                              dp[i-1][w - items[i-1].weight] + items[i-1].value);
+                              dp[i-1][w - danhSachDo[i-1].trongLuong] + danhSachDo[i-1].giaTri);
             } else {
                 dp[i][w] = dp[i-1][w];
             }
         }
     }
-    return dp[n][W];
-}
-
-int main() {
-    int W = 5; // Dung lượng balô
-    vector<Item> items = {{3, 10}, {2, 8}, {4, 15}}; // trọng lượng, giá trị
-    int n = items.size();
-    cout << "Giá trị tối đa: " << knapsack(W, items, n) << endl;
-    return 0;
+    return dp[n][sucChua];
 }
 ```
 
@@ -90,10 +79,25 @@ Linh bật cười: *"Nhưng đời không phải lúc nào cũng đơn giản t
 
 Nam gõ thêm một dòng giả mã:  
 ```cpp
-bool greedyMatch(string candidate) {
-    if (hasFakeTeeth(candidate) || !hasJob(candidate) || looksLikeDad(candidate)) 
+struct NguoiYeuTiemNang {
+    bool coRangNanhGia;
+    bool coViecLam;
+    bool giongBo;
+    bool coVo;
+};
+
+bool coTheMatch(const NguoiYeuTiemNang& nguoi) {
+    // Tiêu chí cứng của Thy
+    if (nguoi.coRangNanhGia || !nguoi.coViecLam || nguoi.giongBo) 
         return false;
-    return true; // Chọn ngay nếu thỏa mãn
+    
+    // Tiêu chí phát hiện muộn
+    if (nguoi.coVo) {
+        cout << "Block ngay! Greedy fail do thieu thong tin\n";
+        return false;
+    }
+    return true;
+}/ Chọn ngay nếu thỏa mãn
 }
 ```
 
@@ -113,6 +117,28 @@ Linh trầm ngâm: *"Vậy là không có giải pháp hoàn hảo?"*
 
 *"Không đâu!"* – Nam đáp. *"Pareto Frontier chỉ cho mày tập hợp các lựa chọn tốt nhất trong giới hạn. Muốn hơn thì phải phá luật – như Khoa nói 'hack não thiên hạ'!"*  
 
+```cpp
+struct LuaChon {
+    double tienBac;
+    double thoiGian;
+    double longTuTrong;
+};
+
+bool isParetoOptimal(const LuaChon& luaChon, const vector<LuaChon>& frontier) {
+    for (const auto& point : frontier) {
+        if (point.tienBac >= luaChon.tienBac &&
+            point.thoiGian >= luaChon.thoiGian &&
+            point.longTuTrong >= luaChon.longTuTrong &&
+            (point.tienBac > luaChon.tienBac || 
+             point.thoiGian > luaChon.thoiGian || 
+             point.longTuTrong > luaChon.longTuTrong)) {
+            return false;
+        }
+    }
+    return true;
+}
+```
+
 ---
 
 **"Chương 4: Khi Thuật Toán Bó Tay"**
@@ -122,6 +148,13 @@ Nam ngừng gõ, nhìn Linh: *"Đoạn mẹ Thy bị bệnh, không thuật toá
 Linh thở dài: *"Ừ, như bug không tìm ra nguyên nhân – mày chỉ biết ngồi chờ nó tự hết thôi."*  
 
 Nam gật đầu: *"Đúng vậy. Thy bỏ hết livestream, chọn gia đình. Đó không phải tối ưu logic, mà là tối ưu trái tim!"*  
+
+```cpp
+void khiKhongTheToiUu() {
+    cout << "Khong co thuat toan nao cho tinh yeu gia dinh\n";
+    cout << "Thy da chon bang trai tim thay vi ly tri\n";
+}
+```
 
 ---
 
@@ -168,3 +201,112 @@ Câu chuyện "Balô Đời" không chỉ là một hành trình tuổi trẻ, m
 Nam và Linh dưới ánh đèn đường đã tìm ra chân lý đó. Còn bạn, bạn sẽ nhét gì vào balô của mình?  
 
 *(Tác giả note: Nếu thích, ném đá trên GitHub nhé!)*
+
+Code đây đủ đây bạn nhé!
+
+```cpp
+#include <iostream>
+#include <vector>
+#include <algorithm>
+using namespace std;
+
+// Chương 1: Bài toán Knapsack - Balô đời
+struct DoVat {
+    int trongLuong;
+    int giaTri;
+};
+
+int knapsack(int sucChua, vector<DoVat>& danhSachDo) {
+    int n = danhSachDo.size();
+    vector<vector<int>> dp(n + 1, vector<int>(sucChua + 1, 0));
+
+    for (int i = 1; i <= n; i++) {
+        for (int w = 0; w <= sucChua; w++) {
+            if (danhSachDo[i-1].trongLuong <= w) {
+                dp[i][w] = max(dp[i-1][w], 
+                              dp[i-1][w - danhSachDo[i-1].trongLuong] + danhSachDo[i-1].giaTri);
+            } else {
+                dp[i][w] = dp[i-1][w];
+            }
+        }
+    }
+    return dp[n][sucChua];
+}
+
+// Chương 2: Greedy Algorithm - Tinder của Thy
+struct NguoiYeuTiemNang {
+    bool coRangNanhGia;
+    bool coViecLam;
+    bool giongBo;
+    bool coVo;
+};
+
+bool coTheMatch(const NguoiYeuTiemNang& nguoi) {
+    // Tiêu chí cứng của Thy
+    if (nguoi.coRangNanhGia || !nguoi.coViecLam || nguoi.giongBo) 
+        return false;
+    
+    // Tiêu chí phát hiện muộn
+    if (nguoi.coVo) {
+        cout << "Block ngay! Greedy fail do thieu thong tin\n";
+        return false;
+    }
+    return true;
+}
+
+// Chương 3: Pareto Frontier - Trade-off cuộc đời
+struct LuaChon {
+    double tienBac;
+    double thoiGian;
+    double longTuTrong;
+};
+
+bool isParetoOptimal(const LuaChon& luaChon, const vector<LuaChon>& frontier) {
+    for (const auto& point : frontier) {
+        if (point.tienBac >= luaChon.tienBac &&
+            point.thoiGian >= luaChon.thoiGian &&
+            point.longTuTrong >= luaChon.longTuTrong &&
+            (point.tienBac > luaChon.tienBac || 
+             point.thoiGian > luaChon.thoiGian || 
+             point.longTuTrong > luaChon.longTuTrong)) {
+            return false;
+        }
+    }
+    return true;
+}
+
+// Chương 4: Khi thuật toán bó tay
+void khiKhongTheToiUu() {
+    cout << "Khong co thuat toan nao cho tinh yeu gia dinh\n";
+    cout << "Thy da chon bang trai tim thay vi ly tri\n";
+}
+
+int main() {
+    // Chương 1 demo
+    vector<DoVat> doVat = {{3, 10}, {2, 8}, {4, 15}};
+    cout << "Gia tri toi da trong balo 5kg: " << knapsack(5, doVat) << endl;
+
+    // Chương 2 demo
+    NguoiYeuTiemNang nguoiDep = {false, true, false, true};
+    cout << "Co match duoc khong? " << (coTheMatch(nguoiDep) ? "Co" : "Khong") << endl;
+
+    // Chương 3 demo
+    vector<LuaChon> paretoFront = {
+        {8.5, 6.0, 7.0},  // Thy chọn lựa
+        {10.0, 2.0, 3.0},  // Chỉ tập trung vào tiền
+        {5.0, 8.0, 9.0}    // Chọn thời gian và lòng tự trọng
+    };
+    LuaChon luaChonThy = {8.5, 6.0, 7.0};
+    cout << "Lua chon cua Thy co toi uu Pareto khong? " 
+         << (isParetoOptimal(luaChonThy, paretoFront) ? "Co" : "Khong") << endl;
+
+    // Chương 4 demo
+    khiKhongTheToiUu();
+
+    cout << "\n=== KET THUC ===\n";
+    cout << "Balo doi: Toi uu nhung gi can thiet, bo qua nhung thu co the\n";
+    cout << "Va quan trong nhat: giu lai tinh yeu gia dinh!\n";
+
+    return 0;
+}
+```
