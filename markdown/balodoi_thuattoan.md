@@ -1,57 +1,47 @@
-***Viết bởi [Grok](https://grok.com/), kiểm duyệt bởi [Nờ Mờ Ka](https://github.com/nguyenminhkhoi2009/)***
-
-### THUẬT TOÁN DƯỚI ÁNH ĐÈN ĐƯỜNG
-
-*(Tác giả note: Đây là một câu chuyện nhỏ về Nam - một coder vừa ra trường, và Linh - một cô nàng tester thích đặt câu hỏi hóc búa. Họ sẽ khám phá những thuật toán ẩn trong "Balô Đời" mà không biết rằng chính họ cũng đang sống trong một bài toán tối ưu của riêng mình.)*
-
-#CodeLàĐời #ĐờiLàCode  
+***Viết bởi [Deepseek](https://deepseek.com/) và [Grok](https://grok.com/), kiểm duyệt và sửa lỗi bởi [Nờ Mờ Ka](https://github.com/nguyenminhkhoi2009/)***
 
 ---
 
-**"Góc Đường và Câu Hỏi Đêm Khuya"**
+# BALÔ ĐỜI – NHỮNG DÒNG LỆCH LẠC TRONG CUỘC ĐỜI LẬP TRÌNH
 
-Nam ngồi dưới ánh đèn đường mờ ảo, laptop mở sáng trưng, tay gõ lạch cạch đoạn code cuối cùng trước deadline. Linh bước tới, tay cầm hai ly cà phê sữa, ném một câu: *"Code gì mà mặt mày như sắp chết đói thế?"*  
+## **MỞ ĐẦU**
+*"Đời như code, bug thì nhiều mà deadline thì sát mông."* – Nam nhấp một ngụm cà phê đen, mắt dán vào màn hình laptop đầy lỗi đỏ lòm. *"Mày thấy cái truyện 'Balô Đời' này giống tụi mình không?"*  
 
-Nam thở dài, chỉ vào màn hình: *"Deadline dí tao như chó dí mèo. Nhưng mà tao vừa đọc xong cái truyện 'Balô Đời' của thằng bạn trên GitHub. Hay phết, mà tao nghi nó giấu mấy thuật toán trong đó!"*  
+Lan – cô bạn cùng phòng trọ kiêm đồng nghiệp – đang gõ phím rầm rầm, ngẩng lên: *"Giống cái nỗi gì! Thy với Khoa còn biết chọn cái balô nào nhẹ, chứ tụi mình thì debug hoài không ra, balô toàn lỗi là lỗi!"*  
 
-Linh nhếch mép: *"Thế mày phân tích được gì chưa, hay chỉ ngồi đoán mò như tester mới vào nghề?"*  
+Căn phòng trọ 15m² ngập mùi cà phê cháy và tiếng quạt máy rít lên từng hồi. Hai lập trình viên trẻ, một thằng vừa bị sếp mắng vì code chậm, một đứa vừa crash dự án vì quên backup, đang đối diện với câu hỏi lớn: **Làm sao để nhét cả đam mê, áp lực và giấc mơ coder vào một cái balô lập trình giới hạn?**  
 
-Nam nhấp ngụm cà phê, mắt sáng lên: *"Để tao kể mày nghe, nhưng tao sẽ kể kiểu của tao – một câu chuyện nhỏ, kèm code luôn!"*  
+*#CodeHayLàChết #BalôBugĐờiLắmDrama*
 
 ---
 
-**"Chương 1: Bài Toán Knapsack – Balô Có Giới Hạn"**
+## **CHƯƠNG 1: "BALÔ CODE VÀ NHỮNG DÒNG LỆCH LẠC"**
 
-Nam gõ phím, quay màn hình về phía Linh: *"Mày nhớ đoạn Khoa bảo Thy cái balô đời chỉ chịu được 5kg, nhưng có 10 món để chọn không? Đây chính là bài toán Knapsack (Cái Túi) kinh điển!"*  
+### **"Debug Đời Thực"**  
+Nam cầm điện thoại, đọc to đoạn mở đầu của *Balô Đời*: *"Trên đời có hai kiểu người: Kiểu xách balô đầy ắp đồ nhưng toàn thứ vô dụng, và kiểu xách túi rỗng mà sống như đại gia."*  
 
-Linh nhíu mày: *"Ý mày là chọn sao cho giá trị lớn nhất trong giới hạn trọng lượng?"*  
+Lan cười khẩy: *"Nghe giống tụi mình ghê! Balô code của tao toàn hàm thừa với biến không dùng tới, còn mày thì viết hàm rỗng mà tưởng mình tối ưu!"*  
 
-*"Đúng rồi!"* – Nam cười. *"Thy ban đầu cố nhét hết: tiền, tình yêu, sự nghiệp, gia đình... Nhưng balô đứt dây, đồ rơi tung tóe. Đó là dấu hiệu quá tải – thuật toán bảo mày phải ưu tiên!"*  
+Nam gãi đầu: *"Thì tao đang học cái bài toán cái túi (*Knapsack Problem*) mà Thy với Khoa nhắc tới đó. Nó là thuật toán quy hoạch động, chọn cái nào giá trị cao nhất mà không vượt quá sức chứa balô."*  
 
-Nam viết nguệch ngoạc lên giấy:  
-- **Input:** Danh sách món đồ (tiền = 3kg/10 điểm, tình yêu = 2kg/8 điểm, sự nghiệp = 4kg/15 điểm...)  
-- **Constraint:** Balô tối đa 5kg.  
-- **Goal:** Tối đa hóa giá trị.  
+Lan nhíu mày: *"Ờ, kể tao nghe xem nào!"*  
 
-Linh gật gù: *"Rồi sao? Mày code được chưa?"*  
+Nam chỉ vào màn hình: *"Giả sử balô là bộ nhớ máy tính, chỉ chứa được 5MB. Mày có 3 file: file A (2MB, giá trị 10 điểm), file B (3MB, giá trị 15 điểm), file C (4MB, giá trị 20 điểm). Chọn sao để tối đa điểm mà không crash hệ thống?"*  
 
-Nam gõ nhanh một đoạn code C++:  
+Lan gật gù: *"Để tao đoán – thuật toán này là duyệt hết khả năng rồi chọn tổ hợp ngon nhất, đúng không?"*  
+
+Nam cười: *"Đúng rồi! Đây, tao viết hàm thử bằng C++ cho mày xem."*  
 
 ```cpp
-struct DoVat {
-    int trongLuong;
-    int giaTri;
-};
+#include <bits/stdc++.h>
+using namespace std;
 
-int knapsack(int sucChua, vector<DoVat>& danhSachDo) {
-    int n = danhSachDo.size();
+int quyHoachDong(int sucChua, vector<int> trongLuong, vector<int> giaTri, int n) {
     vector<vector<int>> dp(n + 1, vector<int>(sucChua + 1, 0));
-
     for (int i = 1; i <= n; i++) {
         for (int w = 0; w <= sucChua; w++) {
-            if (danhSachDo[i-1].trongLuong <= w) {
-                dp[i][w] = max(dp[i-1][w], 
-                              dp[i-1][w - danhSachDo[i-1].trongLuong] + danhSachDo[i-1].giaTri);
+            if (trongLuong[i-1] <= w) {
+                dp[i][w] = max(giaTri[i-1] + dp[i-1][w - trongLuong[i-1]], dp[i-1][w]);
             } else {
                 dp[i][w] = dp[i-1][w];
             }
@@ -61,147 +51,170 @@ int knapsack(int sucChua, vector<DoVat>& danhSachDo) {
 }
 ```
 
-*"Đây là Dynamic Programming cho Knapsack. Với balô 5kg, Thy có thể chọn 'tình yêu' (2kg) và 'tiền' (3kg) để được 18 điểm giá trị – tối ưu hơn nhét hết!"* – Nam giải thích.  
+**Giải thích code:**  
+- `sucChua` là giới hạn balô (5MB).  
+- `trongLuong` là kích thước file, `giaTri` là điểm số.  
+- `dp[i][w]` lưu giá trị tối đa khi xét tới món thứ `i` với sức chứa `w`.  
+- Dùng `max()` để chọn giữa việc bỏ món đó hoặc thêm nó vào nếu còn chỗ.  
+- Kết quả là `dp[n][sucChua]` – điểm tối đa có thể đạt được.  
 
-Linh cười: *"Vậy Thy học được cách bỏ bớt từ cái balô đứt dây. Đời cũng thế nhỉ – không thể ôm hết!"*  
+Lan vỗ tay: *"Ờ, giống Thy chọn son chất lượng thay vì ôm hết đống hàng tồn kho nhỉ? Nhưng mà debug đời thực khó hơn – bỏ bug nào, giữ bug nào đây?"*  
 
----
+Nam thở dài: *"Đúng vậy. Balô code của tao toàn bug lặt vặt, không biết ưu tiên cái nào trước!"*  
 
-**"Chương 2: Opportunity Cost và Greedy Algorithm"**
-
-Nam chỉ vào đoạn "Tinder và Bài Toán Chi Phí Cơ Hội": *"Mày thấy đoạn Thy lướt Tinder không? Khoa bảo cô ấy đặt tiêu chí rõ ràng để tránh tốn thời gian – đây là Greedy Algorithm đấy!"*  
-
-Linh nhướn mày: *"Greedy là chọn cái tốt nhất ngay tại thời điểm đó đúng không?"*  
-
-*"Chuẩn!"* – Nam gật đầu. *"Thy đặt 'ràng buộc cứng' (hard constraints): không răng nanh giả, có việc làm, không giống bố. Mỗi lần match là một bước chọn local optimum, hy vọng dẫn đến global optimum – tức là tìm được người yêu xịn!"*  
-
-Linh bật cười: *"Nhưng đời không phải lúc nào cũng đơn giản thế. Như đoạn anh chàng 'có vợ' lộ ra – Greedy fail vì thiếu thông tin!"*  
-
-Nam gõ thêm một dòng giả mã:  
-```cpp
-struct NguoiYeuTiemNang {
-    bool coRangNanhGia;
-    bool coViecLam;
-    bool giongBo;
-    bool coVo;
-};
-
-bool coTheMatch(const NguoiYeuTiemNang& nguoi) {
-    // Tiêu chí cứng của Thy
-    if (nguoi.coRangNanhGia || !nguoi.coViecLam || nguoi.giongBo) 
-        return false;
-    
-    // Tiêu chí phát hiện muộn
-    if (nguoi.coVo) {
-        cout << "Block ngay! Greedy fail do thieu thong tin\n";
-        return false;
-    }
-    return true;
-}/ Chọn ngay nếu thỏa mãn
-}
-```
-
-*"Greedy nhanh nhưng dễ sai nếu thiếu dữ liệu. Thy block anh ta là đúng – tránh lãng phí tài nguyên!"* – Nam phán.  
+*#KnapsackProblemTrongCode #ChọnBugMàDebug*
 
 ---
 
-**"Chương 3: Pareto Frontier và Trade-Off"**
+## **CHƯƠNG 2: "TÌNH YÊU LÀ THUẬT TOÁN TÌM KIẾM NHỊ PHÂN"**
 
-Nam chỉ vào đoạn Thy đối mặt với scandal: *"Đoạn này là Pareto Frontier – biên giới tối ưu. Thy không thể vừa giữ tiền, vừa giữ thời gian, vừa giữ lòng tự trọng. Phải trade-off!"*  
+### **"Match Người Yêu Như Match Bug"**  
+Lan đọc đoạn *Tinder và Bài Toán Chi Phí Cơ Hội* trong *Balô Đời*, phì cười: *"Mày thấy Thy lướt Tinder giống tụi mình tìm bug không? Lắm lựa chọn quá nên chọn sai!"*  
 
-Linh gật đầu: *"Như kiểu tao muốn code nhanh mà vẫn đúng, nhưng sếp bắt debug kỹ – không thể có cả hai?"*  
+Nam gật đầu: *"Chuẩn! Tao nghĩ yêu giống thuật toán tìm kiếm nhị phân (*Binary Search*). Đặt tiêu chí rõ ràng, rồi loại dần những trường hợp không đạt để tìm 'match' tốt nhất."*  
 
-*"Đúng vậy!"* – Nam cười. *"Thy chọn im lặng, hy sinh thời gian để giữ tiền và mặt mũi. Khoa còn gợi ý 'lách luật' – kiểu multi-objective optimization, cân bằng nhiều mục tiêu!"*  
+Lan tròn mắt: *"Tìm kiếm nhị phân á? Kể nghe xem!"*  
 
-Linh trầm ngâm: *"Vậy là không có giải pháp hoàn hảo?"*  
-
-*"Không đâu!"* – Nam đáp. *"Pareto Frontier chỉ cho mày tập hợp các lựa chọn tốt nhất trong giới hạn. Muốn hơn thì phải phá luật – như Khoa nói 'hack não thiên hạ'!"*  
+Nam vẽ nguệch ngoạc lên giấy: *"Giả sử mày có danh sách 10 anh chàng, xếp theo độ phù hợp từ 1-10. Mày muốn tìm anh nào đạt mức 7 trở lên. Thay vì duyệt hết, mày chia đôi danh sách, kiểm tra giữa, rồi loại nửa không đạt, cứ thế tới khi tìm ra."*  
 
 ```cpp
-struct LuaChon {
-    double tienBac;
-    double thoiGian;
-    double longTuTrong;
-};
+#include <bits/stdc++.h>
+using namespace std;
 
-bool isParetoOptimal(const LuaChon& luaChon, const vector<LuaChon>& frontier) {
-    for (const auto& point : frontier) {
-        if (point.tienBac >= luaChon.tienBac &&
-            point.thoiGian >= luaChon.thoiGian &&
-            point.longTuTrong >= luaChon.longTuTrong &&
-            (point.tienBac > luaChon.tienBac || 
-             point.thoiGian > luaChon.thoiGian || 
-             point.longTuTrong > luaChon.longTuTrong)) {
-            return false;
+int timKiemNhiPhan(vector<int> danhSach, int mucDoPhuHop) {
+    int trai = 0, phai = danhSach.size() - 1;
+    while (trai <= phai) {
+        int giua = (trai + phai) / 2;
+        if (danhSach[giua] >= mucDoPhuHop) {
+            phai = giua - 1; // Tìm tiếp bên trái để lấy giá trị nhỏ nhất >= mucDoPhuHop
+        } else {
+            trai = giua + 1;
         }
     }
-    return true;
+    return (trai < danhSach.size()) ? danhSach[trai] : -1;
 }
 ```
 
+**Giải thích code:**  
+- `danhSach` là mảng các anh chàng đã sắp xếp.  
+- `mucDoPhuHop` là ngưỡng tối thiểu (ví dụ 7).  
+- Chia đôi mảng, so sánh phần tử giữa với ngưỡng, rồi thu hẹp phạm vi tìm kiếm.  
+- Trả về anh chàng đầu tiên >= 7, hoặc -1 nếu không tìm thấy.  
+
+Lan cười: *"Thy làm vậy thì block thằng có vợ ngay từ đầu! Nhưng mà đời thật đâu có sắp xếp sẵn như mảng đâu mà áp dụng?"*  
+
+Nam nhún vai: *"Thì mày phải tự 'sort' tiêu chí trước, như Thy đặt 'không giống bố'. Đời không có hàm `sort()`, tự làm thôi!"*  
+
+*#BinarySearchTrongTìnhYêu #TìmNgườiYêuNhưTìmBug*
+
 ---
 
-**"Chương 4: Khi Thuật Toán Bó Tay"**
+## **CHƯƠNG 3: "HẠNH PHÚC LÀ THUẬT TOÁN GREEDY"**
 
-Nam ngừng gõ, nhìn Linh: *"Đoạn mẹ Thy bị bệnh, không thuật toán nào giải được. Knapsack, Greedy, Pareto – tất cả đều vô dụng trước tình cảm!"*  
+### **"Chọn Lựa Tối Ưu Từng Bước"**  
+Nam đọc đoạn *Cân Bằng Hạnh Phúc* trong *Balô Đời*, gật gù: *"Cái này giống thuật toán tham lam (*Greedy Algorithm*) ghê! Thy chọn im lặng để tối ưu thời gian, Khoa gợi ý '1 công đôi việc' để tối ưu công sức."*  
 
-Linh thở dài: *"Ừ, như bug không tìm ra nguyên nhân – mày chỉ biết ngồi chờ nó tự hết thôi."*  
+Lan ngắt lời: *"Tham lam là sao? Làm cái gì cũng chọn cái lợi nhất trước à?"*  
 
-Nam gật đầu: *"Đúng vậy. Thy bỏ hết livestream, chọn gia đình. Đó không phải tối ưu logic, mà là tối ưu trái tim!"*  
+Nam gật: *"Đúng rồi! Mỗi bước chọn lựa tốt nhất tại thời điểm đó, không quan tâm hậu quả xa. Ví dụ: Mày có 3 task – debug (5 phút, 10 điểm), viết hàm mới (15 phút, 20 điểm), họp nhóm (30 phút, 5 điểm). Nếu chỉ có 20 phút, mày chọn sao?"*  
+
+Lan đáp: *"Debug với viết hàm, được 30 điểm!"*  
+
+Nam cười: *"Chuẩn! Thuật toán tham lam là vậy. Đây, code thử nhé:"*  
 
 ```cpp
-void khiKhongTheToiUu() {
-    cout << "Khong co thuat toan nao cho tinh yeu gia dinh\n";
-    cout << "Thy da chon bang trai tim thay vi ly tri\n";
+#include <bits/stdc++.h>
+using namespace std;
+
+int thamLam(vector<pair<int, int>> tasks, int thoiGian) {
+    sort(tasks.begin(), tasks.end(), [](pair<int, int> a, pair<int, int> b) {
+        return a.second > b.second; // Sắp xếp theo điểm giảm dần
+    });
+    int tongDiem = 0, thoiGianCon = thoiGian;
+    for (auto task : tasks) {
+        if (thoiGianCon >= task.first) {
+            tongDiem += task.second;
+            thoiGianCon -= task.first;
+        }
+    }
+    return tongDiem;
 }
 ```
 
----
+**Giải thích code:**  
+- `tasks` là danh sách cặp (thời gian, điểm số).  
+- Sắp xếp theo điểm giảm dần để ưu tiên task giá trị cao.  
+- Duyệt lần lượt, thêm task nếu còn thời gian.  
+- Kết quả là tổng điểm tối đa trong giới hạn thời gian.  
 
-**"Đoạn Kết: Chiếc Balô Của Coder"**
+Lan gật: *"Ờ, giống Khoa bảo Thy làm content khoán ngoài để tiết kiệm sức. Nhưng mà tham lam kiểu này có khi bỏ lỡ cái lớn hơn không?"*  
 
-Linh đứng dậy, vỗ vai Nam: *"Thế balô coder của mày thì sao? Code, cà phê, deadline – nhét gì vào?"*  
+Nam thở dài: *"Đúng vậy. Greedy không phải lúc nào cũng tối ưu toàn cục, giống Thy chọn im lặng nhưng suýt mất fan!"*  
 
-Nam cười khẩy, đóng laptop: *"Tao vừa tìm ra: bỏ deadline đi, nhét thêm cà phê và... mày vào!"*  
-
-Linh đạp Nam một phát: *"Code xong rồi hẵng tán tỉnh! Nhưng mà hay đấy – truyện này đúng là một kho thuật toán ẩn!"*  
-
-Dưới ánh đèn đường, hai đứa cười vang. Chiếc balô của Nam nhẹ đi một chút, nhưng đầy thêm ý nghĩa.
-
-#CodeLàSống #SốngLàCode  
+*#GreedyTrongĐời #TốiƯuTừngBước*
 
 ---
 
-### **PHÂN TÍCH THUẬT TOÁN ẨN TRONG "BALÔ ĐỜI"**
+## **CHƯƠNG 4: "KHI BALÔ CODE GẶP LỖI NGẪU NHIÊN"**
 
-1. **Knapsack Problem (Bài Toán Cái Túi):**  
-   - Xuất hiện ở Chương 1 khi Khoa dạy Thy chọn thứ quan trọng nhất trong balô giới hạn.  
-   - Thuật toán: Dynamic Programming (DP) để tối ưu giá trị trong giới hạn trọng lượng.  
-   - Code mẫu đã cung cấp ở trên.
+### **"Random Noise Trong Đời Thực"**  
+Lan đọc đoạn Thy nhận tin nhắn từ mẹ trong *Balô Đời*, thở dài: *"Cái này giống lỗi ngẫu nhiên (*Random Noise*) trong dữ liệu máy học ghê. Đang tính toán ngon lành thì đời ném cho một cục drama!"*  
 
-2. **Greedy Algorithm (Thuật Toán Tham Lam):**  
-   - Chương 2, khi Thy đặt tiêu chí chọn người yêu trên Tinder.  
-   - Ý tưởng: Chọn lựa tối ưu cục bộ (local optimum) tại mỗi bước, hy vọng đạt tối ưu toàn cục (global optimum).  
-   - Hạn chế: Dễ thất bại nếu thiếu thông tin (như anh chàng "có vợ").
+Nam gật: *"Chuẩn! Trong AI, noise là dữ liệu nhiễu làm sai kết quả. Như Thy đang tối ưu tiền bạc thì mẹ bệnh, mọi thuật toán vỡ trận!"*  
 
-3. **Pareto Frontier (Biên Pareto):**  
-   - Chương 3, khi Thy đối mặt với trade-off giữa tiền, thời gian, và lòng tự trọng.  
-   - Ý tưởng: Tìm tập hợp các giải pháp tối ưu mà không thể cải thiện một yếu tố mà không làm tệ yếu tố khác.  
-   - Ứng dụng: Quyết định đa mục tiêu (multi-objective optimization).
+Lan hỏi: *"Vậy xử lý noise kiểu gì?"*  
 
-4. **No Algorithm (Không Có Thuật Toán):**  
-   - Chương 4, khi Thy chọn gia đình thay vì logic tối ưu.  
-   - Ý tưởng: Có những bài toán cuộc đời không giải được bằng công thức, chỉ có thể cảm nhận bằng trái tim.
+Nam đáp: *"Lọc nó ra, hoặc chấp nhận nó là một phần của bài toán. Ví dụ tao có hàm lọc nhiễu đơn giản đây:"*  
+
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+
+double locNhieu(vector<double> duLieu) {
+    sort(duLieu.begin(), duLieu.end());
+    int n = duLieu.size();
+    if (n < 3) return duLieu[n/2]; // Không đủ dữ liệu để lọc
+    return duLieu[n/2]; // Lấy trung vị để giảm ảnh hưởng nhiễu
+}
+```
+
+**Giải thích code:**  
+- `duLieu` là tập giá trị (ví dụ doanh thu hàng ngày).  
+- Sắp xếp và lấy trung vị để loại bỏ giá trị bất thường (noise).  
+- Kết quả là giá trị ổn định hơn, ít bị nhiễu ảnh hưởng.  
+
+Lan cười: *"Nhưng đời không lọc được nhiễu kiểu này đâu. Thy không thể 'sort' bệnh của mẹ ra khỏi cuộc sống!"*  
+
+Nam gật: *"Ừ, có những thứ không thuật toán nào giải được. Như bug lớn nhất trong code – chính là bản thân tụi mình!"*  
+
+*#RandomNoiseTrongCode #ĐờiKhôngPhảiDữLiệuSạch*
 
 ---
 
-### **LỜI KẾT**
-Câu chuyện "Balô Đời" không chỉ là một hành trình tuổi trẻ, mà còn là một bản đồ thuật toán ẩn giấu khéo léo. Từ Knapsack, Greedy, đến Pareto, nó phản ánh cách chúng ta tối ưu cuộc sống – nhưng cũng nhắc nhở rằng, đôi khi, điều quan trọng nhất lại nằm ngoài mọi phép tính.
+## **CHƯƠNG 5: "BALÔ CODE MỚI – KHỞI ĐẦU TỪ BUG"**
 
-Nam và Linh dưới ánh đèn đường đã tìm ra chân lý đó. Còn bạn, bạn sẽ nhét gì vào balô của mình?  
+### **"Tái Hợp Với Code và Đời"**  
+Lan cầm điện thoại, đọc đoạn cuối *Balô Đời*: *"Balô tuổi trẻ - Mang gì trên vai? Chỉ cần đừng đánh mất bản thân mình."*  
+
+Nam gật: *"Giống tụi mình ghê! Balô code không chỉ chứa thuật toán, mà còn là kinh nghiệm từ bug, từ lỗi, từ những đêm debug khuya."*  
+
+Lan cười: *"Ừ, tao quyết định rồi. Từ nay tối ưu code trước, không để balô toàn bug nữa!"*  
+
+Nam rút laptop ra: *"Tao cũng vậy. Đây, viết lại hàm đầu tiên – quy hoạch động – để tối ưu dự án lần này!"*  
+
+Hai đứa nhìn nhau, cười lớn. Balô code của họ giờ nhẹ hơn, không phải vì ít lỗi, mà vì họ đã học cách chọn lọc những gì đáng giữ.  
+
+*#CodeMớiĐờiMới #BalôBugCũngLàThầy*
 
 ---
 
-📢 **Bình luận:**
+**Tác giả note:**  
+- *Cuộc đời lập trình là chuỗi thuật toán: Knapsack chọn bug mà fix, Binary Search tìm lối đi, Greedy tối ưu từng bước, và đôi khi là chấp nhận Noise không thể lọc.*  
+- *Balô code không cần hoàn hảo, chỉ cần đủ để bạn bước tiếp!*  
+- *Hãy thử mở balô của bạn ngay bây giờ: Bỏ bớt một hàm thừa, thêm một comment ý nghĩa, và để khoảng trống cho những bug mới – vì đó là cách coder trưởng thành!*  
+
+--- 
+
+📢 **Bình luận:**  
 [![Discuss](https://img.shields.io/badge/GitHub-Discussions-green?style=flat-square)](https://github.com/nguyenminhkhoi2009/nguyenminhkhoi.io.vn-cauchuyenvathuattoan/discussions)  
-*"Ném đá chỗ nào? Mời lên GitHub!"*  
+*"Bug nào cần fix? Ném đá lên GitHub nhé!"*
