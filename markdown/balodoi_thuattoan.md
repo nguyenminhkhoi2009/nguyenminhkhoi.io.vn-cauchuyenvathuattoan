@@ -65,7 +65,7 @@ int knapsack(int W, vector<Item>& items, int n) {
 
 int main() {
     int W = 5; // Dung lượng balô
-    vector<Item> items = {{3, 10}, {2, 8}, {4, 15}}; // {trọng lượng, giá trị}
+    vector<Item> items = {{3, 10}, {2, 8}, {4, 15}}; // trọng lượng, giá trị
     int n = items.size();
     cout << "Giá trị tối đa: " << knapsack(W, items, n) << endl;
     return 0;
