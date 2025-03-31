@@ -7,18 +7,6 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://cauchuyenvathuattoan.nguyenminhkhoi.io.vn/html/dothichien.html</loc>
-    <lastmod>2025-03-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://cauchuyenvathuattoan.nguyenminhkhoi.io.vn/html/dothichien_thuattoan.html</loc>
-    <lastmod>2025-03-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://cauchuyenvathuattoan.nguyenminhkhoi.io.vn/html/balodoi.html</loc>
     <lastmod>2025-03-30</lastmod>
     <changefreq>monthly</changefreq>
@@ -26,18 +14,6 @@
   </url>
   <url>
     <loc>https://cauchuyenvathuattoan.nguyenminhkhoi.io.vn/html/balodoi_thuattoan.html</loc>
-    <lastmod>2025-03-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://cauchuyenvathuattoan.nguyenminhkhoi.io.vn/html/nhacocode.html</loc>
-    <lastmod>2025-03-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://cauchuyenvathuattoan.nguyenminhkhoi.io.vn/html/nhacocode_thuattoan.html</loc>
     <lastmod>2025-03-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
